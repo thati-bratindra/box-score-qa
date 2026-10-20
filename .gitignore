@@ -1,0 +1,7 @@
+# Python bytecode from running the backend
+__pycache__/
+*.py[cod]
+
+# Local environments
+.venv/
+.env

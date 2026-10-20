@@ -1,0 +1,224 @@
+[
+  {
+    "id": 1,
+    "question": "How many points did Darian Hadderley score in January 2026, based on the data provided?",
+    "tier": "extended",
+    "return": {
+      "answerable": "bool",
+      "points": "int",
+      "games": "int",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": "int"
+        },
+        {
+          "table": "player_box_scores",
+          "game_id": "int",
+          "person_id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "Which Lanterns starter scored the most total points in games the Lanterns lost by 10 or more points?",
+    "tier": "extended",
+    "return": {
+      "answerable": "bool",
+      "player_name": "str",
+      "points": "int",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": "int"
+        },
+        {
+          "table": "player_box_scores",
+          "game_id": "int",
+          "person_id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "Which player had the most games with 30 or more points against the Lanterns this season?",
+    "tier": "extended",
+    "return": {
+      "answerable": "bool",
+      "player_name": "str",
+      "games": "int",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": "int"
+        },
+        {
+          "table": "player_box_scores",
+          "game_id": "int",
+          "person_id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "How many points did Isaiah Thorsen score in the Gannets' season opener?",
+    "tier": "core",
+    "return": {
+      "answerable": "bool",
+      "points": "int",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": "int"
+        },
+        {
+          "table": "player_box_scores",
+          "game_id": "int",
+          "person_id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "What was the final score of the Wraiths' game against the Coyotes on April 5, 2026, and who won?",
+    "tier": "core",
+    "return": {
+      "answerable": "bool",
+      "winner": "str",
+      "score": "str",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "Who led the Zephyrs in scoring in their game against the Corsairs on November 19, 2025, and how many points did he score?",
+    "tier": "core",
+    "return": {
+      "answerable": "bool",
+      "player_name": "str",
+      "points": "int",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": "int"
+        },
+        {
+          "table": "player_box_scores",
+          "game_id": "int",
+          "person_id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "What was the largest deficit the Trappers overcame to win a game this season, and who were they playing?",
+    "tier": "stretch",
+    "return": {
+      "answerable": "bool",
+      "opponent": "str",
+      "deficit": "int",
+      "score": "str",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": "int"
+        },
+        {
+          "table": "game_recaps",
+          "id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "Who hit the go-ahead basket for the Lanterns against the Gannets on October 29, 2025?",
+    "tier": "stretch",
+    "return": {
+      "answerable": "bool",
+      "player_name": "str",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": "int"
+        },
+        {
+          "table": "game_recaps",
+          "id": "int"
+        },
+        {
+          "table": "player_box_scores",
+          "game_id": "int",
+          "person_id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "Why did Garrett Brightwell miss the game against the Stags on November 25, 2025?",
+    "tier": "stretch",
+    "return": {
+      "answerable": "bool",
+      "status": "str",
+      "reason": "str",
+      "evidence": [
+        {
+          "table": "injury_notes",
+          "id": "int"
+        },
+        {
+          "table": "game_details",
+          "id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "How many points did Hadderley score against the Sunhawks on October 22, 2025?",
+    "tier": "core",
+    "return": {
+      "answerable": "bool",
+      "points": "int",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": "int"
+        },
+        {
+          "table": "player_box_scores",
+          "game_id": "int",
+          "person_id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "question": "What was the Wraiths' largest margin of defeat this season, who beat them, and what was the final score?",
+    "tier": "extended",
+    "return": {
+      "answerable": "bool",
+      "opponent": "str",
+      "margin": "int",
+      "score": "str",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": "int"
+        }
+      ]
+    }
+  }
+]

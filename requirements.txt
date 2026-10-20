@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+psycopg2-binary
+sqlalchemy
+pgvector
+pandas
+requests
+pydantic
+jsonschema

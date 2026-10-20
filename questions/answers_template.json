@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "result": {
+      "answerable": true,
+      "points": 0,
+      "games": 0,
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": 0
+        },
+        {
+          "table": "player_box_scores",
+          "game_id": 0,
+          "person_id": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "result": {
+      "answerable": true,
+      "player_name": "",
+      "points": 0,
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": 0
+        },
+        {
+          "table": "player_box_scores",
+          "game_id": 0,
+          "person_id": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "result": {
+      "answerable": true,
+      "player_name": "",
+      "games": 0,
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": 0
+        },
+        {
+          "table": "player_box_scores",
+          "game_id": 0,
+          "person_id": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "result": {
+      "answerable": true,
+      "points": 0,
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": 0
+        },
+        {
+          "table": "player_box_scores",
+          "game_id": 0,
+          "person_id": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "result": {
+      "answerable": true,
+      "winner": "",
+      "score": "",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "result": {
+      "answerable": true,
+      "player_name": "",
+      "points": 0,
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": 0
+        },
+        {
+          "table": "player_box_scores",
+          "game_id": 0,
+          "person_id": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "result": {
+      "answerable": true,
+      "opponent": "",
+      "deficit": 0,
+      "score": "",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": 0
+        },
+        {
+          "table": "game_recaps",
+          "id": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "result": {
+      "answerable": true,
+      "player_name": "",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": 0
+        },
+        {
+          "table": "game_recaps",
+          "id": 0
+        },
+        {
+          "table": "player_box_scores",
+          "game_id": 0,
+          "person_id": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "result": {
+      "answerable": true,
+      "status": "",
+      "reason": "",
+      "evidence": [
+        {
+          "table": "injury_notes",
+          "id": 0
+        },
+        {
+          "table": "game_details",
+          "id": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "result": {
+      "answerable": true,
+      "points": 0,
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": 0
+        },
+        {
+          "table": "player_box_scores",
+          "game_id": 0,
+          "person_id": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "result": {
+      "answerable": true,
+      "opponent": "",
+      "margin": 0,
+      "score": "",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": 0
+        }
+      ]
+    }
+  }
+]

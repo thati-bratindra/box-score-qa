@@ -1,0 +1,887 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Answers",
+  "description": "One result object per question id in questions/questions.json, matching questions/answers_template.json.",
+  "type": "array",
+  "minItems": 11,
+  "maxItems": 11,
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "result"
+    ],
+    "properties": {
+      "id": {
+        "type": "integer",
+        "enum": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "result": {
+        "type": "object"
+      }
+    },
+    "allOf": [
+      {
+        "if": {
+          "properties": {
+            "id": {
+              "const": 1
+            }
+          }
+        },
+        "then": {
+          "properties": {
+            "result": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "answerable",
+                "points",
+                "games",
+                "evidence"
+              ],
+              "properties": {
+                "answerable": {
+                  "type": "boolean"
+                },
+                "points": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "games": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "oneOf": [
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "game_details"
+                          },
+                          "id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      },
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "game_id",
+                          "person_id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "player_box_scores"
+                          },
+                          "game_id": {
+                            "type": "integer",
+                            "minimum": 0
+                          },
+                          "person_id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "if": {
+          "properties": {
+            "id": {
+              "const": 2
+            }
+          }
+        },
+        "then": {
+          "properties": {
+            "result": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "answerable",
+                "player_name",
+                "points",
+                "evidence"
+              ],
+              "properties": {
+                "answerable": {
+                  "type": "boolean"
+                },
+                "player_name": {
+                  "type": "string"
+                },
+                "points": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "oneOf": [
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "game_details"
+                          },
+                          "id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      },
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "game_id",
+                          "person_id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "player_box_scores"
+                          },
+                          "game_id": {
+                            "type": "integer",
+                            "minimum": 0
+                          },
+                          "person_id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "if": {
+          "properties": {
+            "id": {
+              "const": 3
+            }
+          }
+        },
+        "then": {
+          "properties": {
+            "result": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "answerable",
+                "player_name",
+                "games",
+                "evidence"
+              ],
+              "properties": {
+                "answerable": {
+                  "type": "boolean"
+                },
+                "player_name": {
+                  "type": "string"
+                },
+                "games": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "oneOf": [
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "game_details"
+                          },
+                          "id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      },
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "game_id",
+                          "person_id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "player_box_scores"
+                          },
+                          "game_id": {
+                            "type": "integer",
+                            "minimum": 0
+                          },
+                          "person_id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "if": {
+          "properties": {
+            "id": {
+              "const": 4
+            }
+          }
+        },
+        "then": {
+          "properties": {
+            "result": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "answerable",
+                "points",
+                "evidence"
+              ],
+              "properties": {
+                "answerable": {
+                  "type": "boolean"
+                },
+                "points": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "oneOf": [
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "game_details"
+                          },
+                          "id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      },
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "game_id",
+                          "person_id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "player_box_scores"
+                          },
+                          "game_id": {
+                            "type": "integer",
+                            "minimum": 0
+                          },
+                          "person_id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "if": {
+          "properties": {
+            "id": {
+              "const": 5
+            }
+          }
+        },
+        "then": {
+          "properties": {
+            "result": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "answerable",
+                "winner",
+                "score",
+                "evidence"
+              ],
+              "properties": {
+                "answerable": {
+                  "type": "boolean"
+                },
+                "winner": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "string"
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "oneOf": [
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "game_details"
+                          },
+                          "id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "if": {
+          "properties": {
+            "id": {
+              "const": 6
+            }
+          }
+        },
+        "then": {
+          "properties": {
+            "result": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "answerable",
+                "player_name",
+                "points",
+                "evidence"
+              ],
+              "properties": {
+                "answerable": {
+                  "type": "boolean"
+                },
+                "player_name": {
+                  "type": "string"
+                },
+                "points": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "oneOf": [
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "game_details"
+                          },
+                          "id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      },
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "game_id",
+                          "person_id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "player_box_scores"
+                          },
+                          "game_id": {
+                            "type": "integer",
+                            "minimum": 0
+                          },
+                          "person_id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "if": {
+          "properties": {
+            "id": {
+              "const": 7
+            }
+          }
+        },
+        "then": {
+          "properties": {
+            "result": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "answerable",
+                "opponent",
+                "deficit",
+                "score",
+                "evidence"
+              ],
+              "properties": {
+                "answerable": {
+                  "type": "boolean"
+                },
+                "opponent": {
+                  "type": "string"
+                },
+                "deficit": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "score": {
+                  "type": "string"
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "oneOf": [
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "game_details"
+                          },
+                          "id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      },
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "game_recaps"
+                          },
+                          "id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "if": {
+          "properties": {
+            "id": {
+              "const": 8
+            }
+          }
+        },
+        "then": {
+          "properties": {
+            "result": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "answerable",
+                "player_name",
+                "evidence"
+              ],
+              "properties": {
+                "answerable": {
+                  "type": "boolean"
+                },
+                "player_name": {
+                  "type": "string"
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "oneOf": [
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "game_details"
+                          },
+                          "id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      },
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "game_recaps"
+                          },
+                          "id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      },
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "game_id",
+                          "person_id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "player_box_scores"
+                          },
+                          "game_id": {
+                            "type": "integer",
+                            "minimum": 0
+                          },
+                          "person_id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "if": {
+          "properties": {
+            "id": {
+              "const": 9
+            }
+          }
+        },
+        "then": {
+          "properties": {
+            "result": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "answerable",
+                "status",
+                "reason",
+                "evidence"
+              ],
+              "properties": {
+                "answerable": {
+                  "type": "boolean"
+                },
+                "status": {
+                  "type": "string"
+                },
+                "reason": {
+                  "type": "string"
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "oneOf": [
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "injury_notes"
+                          },
+                          "id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      },
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "game_details"
+                          },
+                          "id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "if": {
+          "properties": {
+            "id": {
+              "const": 10
+            }
+          }
+        },
+        "then": {
+          "properties": {
+            "result": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "answerable",
+                "points",
+                "evidence"
+              ],
+              "properties": {
+                "answerable": {
+                  "type": "boolean"
+                },
+                "points": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "oneOf": [
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "game_details"
+                          },
+                          "id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      },
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "game_id",
+                          "person_id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "player_box_scores"
+                          },
+                          "game_id": {
+                            "type": "integer",
+                            "minimum": 0
+                          },
+                          "person_id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "if": {
+          "properties": {
+            "id": {
+              "const": 11
+            }
+          }
+        },
+        "then": {
+          "properties": {
+            "result": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "answerable",
+                "opponent",
+                "margin",
+                "score",
+                "evidence"
+              ],
+              "properties": {
+                "answerable": {
+                  "type": "boolean"
+                },
+                "opponent": {
+                  "type": "string"
+                },
+                "margin": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "score": {
+                  "type": "string"
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "oneOf": [
+                      {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                          "table",
+                          "id"
+                        ],
+                        "properties": {
+                          "table": {
+                            "const": "game_details"
+                          },
+                          "id": {
+                            "type": "integer",
+                            "minimum": 0
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

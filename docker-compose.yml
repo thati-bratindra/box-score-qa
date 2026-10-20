@@ -1,0 +1,61 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_USER: nba
+      POSTGRES_PASSWORD: nba
+      POSTGRES_DB: nba
+    ports: ["5432:5432"]
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    # Postgres accepts connections a few seconds after the container starts. Without this,
+    # the first `docker compose run app ...` after `up -d db` can fail with connection refused.
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U nba -d nba"]
+      interval: 2s
+      timeout: 5s
+      retries: 30
+
+  # Fallback only. Ollama is expected to run natively on the host (see README), where it can
+  # use the GPU; in Docker it is CPU-only. Start this service with `--profile docker-ollama`
+  # and set OLLAMA_HOST=http://ollama:11434 if you cannot install Ollama natively.
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    profiles: ["docker-ollama"]
+    ports: ["11434:11434"]
+    volumes:
+      - ollamavol:/root/.ollama
+    healthcheck:
+      test: ["CMD", "sh", "-c", "ollama list >/dev/null 2>&1"]
+      interval: 10s
+      timeout: 5s
+      retries: 30
+
+  app:
+    build: .
+    environment:
+      DB_DSN: postgresql+psycopg2://nba:nba@db:5432/nba
+      # Native Ollama on the host machine. Override with OLLAMA_HOST=http://ollama:11434 when
+      # using the docker-ollama profile above.
+      OLLAMA_HOST: ${OLLAMA_HOST:-http://host.docker.internal:11434}
+      EMBED_MODEL: nomic-embed-text
+      LLM_MODEL: qwen3.5:2b
+    depends_on:
+      db:
+        condition: service_healthy
+    # Docker Desktop resolves host.docker.internal on its own; this mapping makes the same
+    # file work with Docker Engine on Linux.
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ./questions:/app/questions
+      - ./backend:/app/backend
+    ports: ["8000:8000"]
+    # Single line on purpose: a folded scalar keeps the newline before --host, so uvicorn
+    # ran with no flags and bound to 127.0.0.1 inside the container (unreachable from the host).
+    command: sh -c "uvicorn backend.server:app --host 0.0.0.0 --port 8000 --reload"
+
+volumes:
+  pgdata:
+  ollamavol:

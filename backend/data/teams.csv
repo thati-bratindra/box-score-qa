@@ -1,0 +1,17 @@
+team_id,city,name,abbreviation,conference,division
+1,Bramport,Lanterns,BPK,East,Coastal
+2,Saltmere,Corsairs,SLM,East,Coastal
+3,Vellmouth,Gannets,VLH,East,Coastal
+4,Quarryton,Foxhounds,QTF,East,Coastal
+5,Dunmere,Ironclads,DNM,East,Lakeshore
+6,Elkhollow,Trappers,EKH,East,Lakeshore
+7,Norvale,Zephyrs,NVC,East,Lakeshore
+8,Glenrock,Stags,GRS,East,Lakeshore
+9,Redmesa,Coyotes,RMC,West,Frontier
+10,Sablecrest,Outriders,SBC,West,Frontier
+11,Ironvale,Mammoths,IVB,West,Frontier
+12,Cinderfall,Wraiths,CFW,West,Frontier
+13,Mirabel,Sunhawks,MRB,West,Canyon
+14,Tarrow,Vipers,TRV,West,Canyon
+15,Lomacita,Dusters,LMD,West,Canyon
+16,Calvara,Gryphons,CVG,West,Canyon

@@ -1,0 +1,793 @@
+note_id,game_id,player_id,team_id,note_date,status,text
+70001,25005,1065,5,2025-10-22,out,"Larrabee is inactive for the matchup with the Glenrock Stags, and the team cites rest."
+70002,25005,1109,8,2025-10-22,out,Mendez (rest) is sidelined for the game against the Dunmere Ironclads.
+70003,25005,1116,8,2025-10-22,out,"Varga is inactive for the matchup with the Dunmere Ironclads, and the team cites rest."
+70004,25006,1049,4,2025-10-22,out,"Mendez will sit out the October 22, 2025 contest versus the Norvale Zephyrs (knee)."
+70005,25006,1052,4,2025-10-22,out,Valdez has been ruled out against the Norvale Zephyrs with ankle soreness.
+70006,25008,1045,3,2025-10-22,out,"Rourke is inactive for the matchup with the Mirabel Sunhawks, and the team cites hip tightness."
+70007,25008,1189,13,2025-10-22,out,Varga (back) is sidelined for the game against the Vellmouth Gannets.
+70008,25009,1002,1,2025-10-24,out,"Kincaid will sit out the October 24, 2025 contest versus the Quarryton Foxhounds (rest)."
+70009,25009,1004,1,2025-10-24,out,"Okafor will sit out the October 24, 2025 contest versus the Quarryton Foxhounds (rest)."
+70010,25009,1052,4,2025-10-24,out,"Valdez is inactive for the matchup with the Bramport Lanterns, and the team cites ankle soreness."
+70011,25010,1045,3,2025-10-24,out,"Rourke will sit out the October 24, 2025 contest versus the Glenrock Stags (hip)."
+70012,25010,1111,8,2025-10-24,out,Castell is unavailable against the Vellmouth Gannets due to ankle soreness.
+70013,25011,1189,13,2025-10-24,out,"Varga has been held out on October 24, 2025 because of back soreness."
+70014,25012,1122,9,2025-10-24,out,Ortega (rest) is sidelined for the game against the Norvale Zephyrs.
+70015,25012,1128,9,2025-10-24,questionable,"Hadderley, listed as questionable with a sprained thumb, was cleared and played on October 24, 2025."
+70016,25013,1198,14,2025-10-24,out,Castell (back) is sidelined for the game against the Calvara Gryphons.
+70017,25013,1203,14,2025-10-24,out,Yardley is unavailable against the Calvara Gryphons due to rest.
+70018,25013,1236,16,2025-10-24,out,Gallio is unavailable against the Tarrow Vipers due to rest.
+70019,25014,1144,10,2025-10-25,questionable,"Even with a questionable tag for knee soreness, Whitlock took the floor on October 25, 2025."
+70020,25016,1016,2,2025-10-25,out,"Kincaid is inactive for the matchup with the Ironvale Mammoths, and the team cites calf tightness."
+70021,25020,1135,9,2025-10-27,out,Ferreira (rest) is sidelined for the game against the Sablecrest Outriders.
+70022,25021,1052,4,2025-10-27,out,"Valdez has been held out on October 27, 2025 because of ankle soreness."
+70023,25021,1189,13,2025-10-27,out,Varga has been ruled out against the Quarryton Foxhounds with back soreness.
+70024,25022,1035,3,2025-10-28,out,Esposito is unavailable against the Ironvale Mammoths due to wrist tightness.
+70025,25022,1045,3,2025-10-28,out,Rourke has been ruled out against the Ironvale Mammoths with hip tightness.
+70026,25024,1006,1,2025-10-28,out,"Bergstrom has been held out on October 28, 2025 because of quad soreness."
+70027,25025,1035,3,2025-10-29,out,"Esposito is inactive for the matchup with the Bramport Lanterns, and the team cites wrist tightness."
+70028,25025,1045,3,2025-10-29,out,"Rourke has been held out on October 29, 2025 because of hip tightness."
+70029,25026,1052,4,2025-10-29,out,Valdez has been ruled out against the Saltmere Corsairs with ankle soreness.
+70030,25027,1231,16,2025-10-29,out,"Ibarra is inactive for the matchup with the Sablecrest Outriders, and the team cites rest."
+70031,25031,1069,5,2025-10-30,out,Jessup (rest) is sidelined for the game against the Mirabel Sunhawks.
+70032,25031,1189,13,2025-10-30,out,Varga (back) is sidelined for the game against the Dunmere Ironclads.
+70033,25033,1116,8,2025-11-01,out,Varga (rest) is sidelined for the game against the Redmesa Coyotes.
+70034,25033,1127,9,2025-11-01,out,"Farrow will sit out the November 1, 2025 contest versus the Glenrock Stags (rest)."
+70035,25034,1035,3,2025-11-01,out,Esposito is unavailable against the Tarrow Vipers due to wrist tightness.
+70036,25034,1045,3,2025-11-01,out,"Rourke is inactive for the matchup with the Tarrow Vipers, and the team cites hip tightness."
+70037,25035,1052,4,2025-11-01,out,"Valdez will sit out the November 1, 2025 contest versus the Sablecrest Outriders (ankle)."
+70038,25038,1100,7,2025-11-02,out,"Brannagh will sit out the November 2, 2025 contest versus the Lomacita Dusters (rest)."
+70039,25038,1217,15,2025-11-02,out,"Hartigan is inactive for the matchup with the Norvale Zephyrs, and the team cites an illness."
+70040,25040,1189,13,2025-11-02,out,"Varga has been held out on November 2, 2025 because of back soreness."
+70041,25042,1035,3,2025-11-04,out,"Esposito is inactive for the matchup with the Redmesa Coyotes, and the team cites wrist tightness."
+70042,25043,1002,1,2025-11-04,out,Kincaid is unavailable against the Ironvale Mammoths due to rest.
+70043,25043,1004,1,2025-11-04,out,"Okafor has been held out on November 4, 2025 because of a sprained thumb."
+70044,25044,1148,10,2025-11-04,out,Vos is unavailable against the Mirabel Sunhawks due to hip tightness.
+70045,25044,1188,13,2025-11-04,out,"Coker is inactive for the matchup with the Sablecrest Outriders, and the team cites a sprained foot."
+70046,25044,1189,13,2025-11-04,out,"Varga is inactive for the matchup with the Sablecrest Outriders, and the team cites back soreness."
+70047,25044,1193,13,2025-11-04,out,Nakamura (wrist) is sidelined for the game against the Sablecrest Outriders.
+70048,25045,1057,4,2025-11-05,questionable,"Even with a questionable tag for wrist soreness, Kessler took the floor on November 5, 2025."
+70049,25047,1204,14,2025-11-05,out,Haddad has been ruled out against the Dunmere Ironclads with wrist tightness.
+70050,25048,1217,15,2025-11-05,out,Hartigan (illness) is sidelined for the game against the Calvara Gryphons.
+70051,25049,1085,6,2025-11-07,out,"Okafor is inactive for the matchup with the Quarryton Foxhounds, and the team cites rest."
+70052,25049,1087,6,2025-11-07,out,Whitcombe (rest) is sidelined for the game against the Quarryton Foxhounds.
+70053,25050,1148,10,2025-11-07,out,"Vos is inactive for the matchup with the Lomacita Dusters, and the team cites hip tightness."
+70054,25050,1212,15,2025-11-07,out,Osei is unavailable against the Sablecrest Outriders due to rest.
+70055,25050,1217,15,2025-11-07,out,Hartigan has been ruled out against the Sablecrest Outriders with an illness.
+70056,25050,1221,15,2025-11-07,out,Mendez (groin) is sidelined for the game against the Sablecrest Outriders.
+70057,25051,1185,13,2025-11-07,out,"Yardley will sit out the November 7, 2025 contest versus the Tarrow Vipers (groin)."
+70058,25051,1188,13,2025-11-07,probable,"Coker carried a probable tag for ankle soreness, but played against the Tarrow Vipers."
+70059,25051,1193,13,2025-11-07,out,Nakamura (wrist) is sidelined for the game against the Tarrow Vipers.
+70060,25053,1035,3,2025-11-08,out,Esposito has been ruled out against the Saltmere Corsairs with wrist tightness.
+70061,25054,1170,12,2025-11-08,out,Szabo has been ruled out against the Glenrock Stags with concussion protocol.
+70062,25054,1172,12,2025-11-08,out,"Osei will sit out the November 8, 2025 contest versus the Glenrock Stags (concussion)."
+70063,25055,1004,1,2025-11-08,out,"Okafor has been held out on November 8, 2025 because of a sprained thumb."
+70064,25055,1014,1,2025-11-08,out,Brightwell is unavailable against the Norvale Zephyrs due to hip soreness.
+70065,25055,1104,7,2025-11-08,out,"Kowalski has been held out on November 8, 2025 because of knee soreness."
+70066,25057,1108,8,2025-11-10,out,Osei is unavailable against the Calvara Gryphons due to rest.
+70067,25057,1226,16,2025-11-10,out,"Stroud will sit out the November 10, 2025 contest versus the Glenrock Stags (rest)."
+70068,25058,1197,14,2025-11-10,out,"Halvorsen has been held out on November 10, 2025 because of foot soreness."
+70069,25059,1050,4,2025-11-10,out,Wainwright is unavailable against the Cinderfall Wraiths due to quad soreness.
+70070,25059,1170,12,2025-11-10,out,Szabo is unavailable against the Quarryton Foxhounds due to concussion protocol.
+70071,25059,1172,12,2025-11-10,out,Osei has been ruled out against the Quarryton Foxhounds with concussion protocol.
+70072,25060,1017,2,2025-11-11,out,"Fontaine will sit out the November 11, 2025 contest versus the Sablecrest Outriders (rest)."
+70073,25060,1025,2,2025-11-11,out,Hadderley has been ruled out against the Sablecrest Outriders with a sprained ankle.
+70074,25060,1148,10,2025-11-11,probable,"Vos carried a probable tag for a sprained wrist, but played against the Saltmere Corsairs."
+70075,25061,1004,1,2025-11-11,out,Okafor has been ruled out against the Dunmere Ironclads with a sprained thumb.
+70076,25061,1014,1,2025-11-11,out,"Brightwell will sit out the November 11, 2025 contest versus the Dunmere Ironclads (hip)."
+70077,25062,1104,7,2025-11-11,out,"Kowalski is inactive for the matchup with the Vellmouth Gannets, and the team cites knee soreness."
+70078,25063,1156,11,2025-11-11,out,Dlamini (rest) is sidelined for the game against the Mirabel Sunhawks.
+70079,25063,1184,13,2025-11-11,out,"Mendez is inactive for the matchup with the Ironvale Mammoths, and the team cites rest."
+70080,25063,1187,13,2025-11-11,out,Brannagh has been ruled out against the Ironvale Mammoths with back tightness.
+70081,25063,1193,13,2025-11-11,out,Nakamura is unavailable against the Ironvale Mammoths due to a sprained wrist.
+70082,25064,1122,9,2025-11-11,out,Ortega (rest) is sidelined for the game against the Lomacita Dusters.
+70083,25064,1217,15,2025-11-11,out,"Hartigan is inactive for the matchup with the Redmesa Coyotes, and the team cites an illness."
+70084,25064,1221,15,2025-11-11,out,"Mendez has been held out on November 11, 2025 because of groin soreness."
+70085,25065,1099,7,2025-11-13,out,Ferreira is unavailable against the Dunmere Ironclads due to rest.
+70086,25065,1104,7,2025-11-13,out,Kowalski has been ruled out against the Dunmere Ironclads with knee soreness.
+70087,25066,1205,14,2025-11-13,out,"Bergstrom has been held out on November 13, 2025 because of hip tightness."
+70088,25068,1025,2,2025-11-14,out,"Hadderley will sit out the November 14, 2025 contest versus the Glenrock Stags (ankle)."
+70089,25069,1050,4,2025-11-14,out,Wainwright is unavailable against the Lomacita Dusters due to quad soreness.
+70090,25069,1217,15,2025-11-14,out,Hartigan is unavailable against the Quarryton Foxhounds due to an illness.
+70091,25069,1221,15,2025-11-14,out,"Mendez has been held out on November 14, 2025 because of groin soreness."
+70092,25072,1004,1,2025-11-14,out,Okafor is unavailable against the Mirabel Sunhawks due to a sprained thumb.
+70093,25072,1014,1,2025-11-14,out,"Brightwell will sit out the November 14, 2025 contest versus the Mirabel Sunhawks (hip)."
+70094,25072,1187,13,2025-11-14,out,"Brannagh has been held out on November 14, 2025 because of back tightness."
+70095,25072,1190,13,2025-11-14,out,Gallio (rest) is sidelined for the game against the Bramport Lanterns.
+70096,25072,1193,13,2025-11-14,out,"Nakamura has been held out on November 14, 2025 because of a sprained wrist."
+70097,25074,1004,1,2025-11-15,out,"Okafor will sit out the November 15, 2025 contest versus the Tarrow Vipers (thumb)."
+70098,25074,1014,1,2025-11-15,out,Brightwell is unavailable against the Tarrow Vipers due to hip soreness.
+70099,25074,1205,14,2025-11-15,out,"Bergstrom is inactive for the matchup with the Bramport Lanterns, and the team cites hip tightness."
+70100,25076,1050,4,2025-11-16,out,Wainwright has been ruled out against the Vellmouth Gannets with quad soreness.
+70101,25077,1104,7,2025-11-16,out,Kowalski (knee) is sidelined for the game against the Ironvale Mammoths.
+70102,25077,1152,11,2025-11-16,out,Haddad is unavailable against the Norvale Zephyrs due to rest.
+70103,25077,1160,11,2025-11-16,out,Kowalski has been ruled out against the Norvale Zephyrs with calf soreness.
+70104,25078,1187,13,2025-11-16,out,"Brannagh will sit out the November 16, 2025 contest versus the Cinderfall Wraiths (back)."
+70105,25080,1025,2,2025-11-16,out,"Hadderley is inactive for the matchup with the Lomacita Dusters, and the team cites a sprained ankle."
+70106,25080,1212,15,2025-11-16,out,Osei is unavailable against the Saltmere Corsairs due to rest.
+70107,25080,1217,15,2025-11-16,out,"Hartigan is inactive for the matchup with the Saltmere Corsairs, and the team cites an illness."
+70108,25080,1221,15,2025-11-16,out,"Mendez will sit out the November 16, 2025 contest versus the Saltmere Corsairs (groin)."
+70109,25081,1004,1,2025-11-18,out,"Okafor has been held out on November 18, 2025 because of a sprained thumb."
+70110,25081,1008,1,2025-11-18,out,Mendez (rest) is sidelined for the game against the Cinderfall Wraiths.
+70111,25081,1014,1,2025-11-18,out,Brightwell has been ruled out against the Cinderfall Wraiths with hip soreness.
+70112,25083,1141,10,2025-11-18,out,"Belcourt will sit out the November 18, 2025 contest versus the Tarrow Vipers (calf)."
+70113,25083,1205,14,2025-11-18,out,Bergstrom is unavailable against the Sablecrest Outriders due to hip tightness.
+70114,25084,1187,13,2025-11-18,out,Brannagh (back) is sidelined for the game against the Calvara Gryphons.
+70115,25085,1119,8,2025-11-19,out,"Nakamura is inactive for the matchup with the Ironvale Mammoths, and the team cites rest."
+70116,25085,1160,11,2025-11-19,out,Kowalski (calf) is sidelined for the game against the Glenrock Stags.
+70117,25086,1025,2,2025-11-19,out,"Hadderley is inactive for the matchup with the Norvale Zephyrs, and the team cites a sprained ankle."
+70118,25086,1099,7,2025-11-19,out,Ferreira (concussion) is sidelined for the game against the Saltmere Corsairs.
+70119,25086,1104,7,2025-11-19,out,"Kowalski has been held out on November 19, 2025 because of knee soreness."
+70120,25087,1067,5,2025-11-19,out,Varga (wrist) is sidelined for the game against the Lomacita Dusters.
+70121,25087,1217,15,2025-11-19,out,Hartigan (illness) is sidelined for the game against the Dunmere Ironclads.
+70122,25087,1221,15,2025-11-19,out,"Mendez will sit out the November 19, 2025 contest versus the Dunmere Ironclads (thumb)."
+70123,25088,1052,4,2025-11-19,out,"Valdez will sit out the November 19, 2025 contest versus the Redmesa Coyotes (rest)."
+70124,25088,1122,9,2025-11-19,out,"Ortega will sit out the November 19, 2025 contest versus the Quarryton Foxhounds (rest)."
+70125,25089,1004,1,2025-11-21,out,Okafor (thumb) is sidelined for the game against the Redmesa Coyotes.
+70126,25089,1014,1,2025-11-21,out,Brightwell has been ruled out against the Redmesa Coyotes with hip soreness.
+70127,25090,1025,2,2025-11-21,out,Hadderley has been ruled out against the Elkhollow Trappers with a sprained ankle.
+70128,25091,1141,10,2025-11-21,out,Belcourt is unavailable against the Vellmouth Gannets due to calf soreness.
+70129,25092,1067,5,2025-11-21,out,"Varga will sit out the November 21, 2025 contest versus the Quarryton Foxhounds (wrist)."
+70130,25093,1187,13,2025-11-22,out,"Brannagh has been held out on November 22, 2025 because of back tightness."
+70131,25094,1178,12,2025-11-22,out,"Pellegrin is inactive for the matchup with the Lomacita Dusters, and the team cites foot soreness."
+70132,25094,1180,12,2025-11-22,out,Varga (hamstring) is sidelined for the game against the Lomacita Dusters.
+70133,25094,1212,15,2025-11-22,out,Osei has been ruled out against the Cinderfall Wraiths with ankle soreness.
+70134,25094,1217,15,2025-11-22,out,Hartigan has been ruled out against the Cinderfall Wraiths with an illness.
+70135,25094,1221,15,2025-11-22,out,"Mendez is inactive for the matchup with the Cinderfall Wraiths, and the team cites thumb soreness."
+70136,25095,1099,7,2025-11-22,out,"Ferreira will sit out the November 22, 2025 contest versus the Tarrow Vipers (concussion)."
+70137,25095,1198,14,2025-11-22,out,Castell has been ruled out against the Norvale Zephyrs with thumb soreness.
+70138,25095,1205,14,2025-11-22,out,"Bergstrom will sit out the November 22, 2025 contest versus the Norvale Zephyrs (hip)."
+70139,25095,1207,14,2025-11-22,out,Draper is unavailable against the Norvale Zephyrs due to a sprained ankle.
+70140,25096,1160,11,2025-11-22,out,Kowalski is unavailable against the Calvara Gryphons due to calf soreness.
+70141,25097,1099,7,2025-11-24,out,"Ferreira will sit out the November 24, 2025 contest versus the Sablecrest Outriders (concussion)."
+70142,25097,1141,10,2025-11-24,out,Belcourt has been ruled out against the Norvale Zephyrs with calf soreness.
+70143,25097,1147,10,2025-11-24,out,Kuznetsov is unavailable against the Norvale Zephyrs due to rest.
+70144,25098,1067,5,2025-11-24,out,"Varga has been held out on November 24, 2025 because of wrist soreness."
+70145,25099,1178,12,2025-11-24,out,Pellegrin has been ruled out against the Tarrow Vipers with foot soreness.
+70146,25099,1180,12,2025-11-24,out,"Varga is inactive for the matchup with the Tarrow Vipers, and the team cites hamstring tightness."
+70147,25099,1198,14,2025-11-24,out,Castell has been ruled out against the Cinderfall Wraiths with thumb soreness.
+70148,25099,1207,14,2025-11-24,out,"Draper is inactive for the matchup with the Cinderfall Wraiths, and the team cites a sprained ankle."
+70149,25100,1229,16,2025-11-24,out,"Nakamura is inactive for the matchup with the Quarryton Foxhounds, and the team cites rest."
+70150,25100,1236,16,2025-11-24,out,"Gallio will sit out the November 24, 2025 contest versus the Quarryton Foxhounds (rest)."
+70151,25101,1025,2,2025-11-24,out,Hadderley has been ruled out against the Redmesa Coyotes with a sprained ankle.
+70152,25101,1123,9,2025-11-24,out,"Halvorsen is inactive for the matchup with the Saltmere Corsairs, and the team cites rest."
+70153,25102,1004,1,2025-11-25,out,"Okafor will sit out the November 25, 2025 contest versus the Glenrock Stags (thumb)."
+70154,25102,1014,1,2025-11-25,out,"Brightwell is inactive for the matchup with the Glenrock Stags, and the team cites hip soreness."
+70155,25102,1108,8,2025-11-25,out,Osei is unavailable against the Bramport Lanterns due to rest.
+70156,25103,1078,6,2025-11-25,out,Huxley (ankle) is sidelined for the game against the Mirabel Sunhawks.
+70157,25103,1190,13,2025-11-25,out,"Gallio is inactive for the matchup with the Elkhollow Trappers, and the team cites rest."
+70158,25103,1192,13,2025-11-25,out,"Abernathy will sit out the November 25, 2025 contest versus the Elkhollow Trappers (rest)."
+70159,25104,1160,11,2025-11-25,out,"Kowalski will sit out the November 25, 2025 contest versus the Lomacita Dusters (calf)."
+70160,25104,1212,15,2025-11-25,out,"Osei will sit out the November 25, 2025 contest versus the Ironvale Mammoths (ankle)."
+70161,25104,1217,15,2025-11-25,out,Hartigan (illness) is sidelined for the game against the Ironvale Mammoths.
+70162,25104,1221,15,2025-11-25,out,"Mendez will sit out the November 25, 2025 contest versus the Ironvale Mammoths (thumb)."
+70163,25104,1224,15,2025-11-25,out,"Castell has been held out on November 25, 2025 because of a sprained thumb."
+70164,25105,1004,1,2025-11-27,out,Okafor (thumb) is sidelined for the game against the Saltmere Corsairs.
+70165,25105,1005,1,2025-11-27,out,Sorrell (rest) is sidelined for the game against the Saltmere Corsairs.
+70166,25105,1014,1,2025-11-27,out,"Brightwell has been held out on November 27, 2025 because of hip soreness."
+70167,25105,1025,2,2025-11-27,out,"Hadderley will sit out the November 27, 2025 contest versus the Bramport Lanterns (ankle)."
+70168,25106,1078,6,2025-11-27,out,"Huxley has been held out on November 27, 2025 because of ankle soreness."
+70169,25106,1083,6,2025-11-27,out,"Novak has been held out on November 27, 2025 because of an illness."
+70170,25107,1212,15,2025-11-27,out,"Osei has been held out on November 27, 2025 because of ankle soreness."
+70171,25107,1217,15,2025-11-27,out,Hartigan is unavailable against the Vellmouth Gannets due to an illness.
+70172,25107,1223,15,2025-11-27,out,Farrow is unavailable against the Vellmouth Gannets due to rest.
+70173,25107,1224,15,2025-11-27,out,"Castell has been held out on November 27, 2025 because of a sprained thumb."
+70174,25108,1052,4,2025-11-27,out,"Valdez will sit out the November 27, 2025 contest versus the Tarrow Vipers (rest)."
+70175,25108,1207,14,2025-11-27,out,Draper (ankle) is sidelined for the game against the Quarryton Foxhounds.
+70176,25110,1067,5,2025-11-28,out,Varga is unavailable against the Cinderfall Wraiths due to wrist soreness.
+70177,25110,1167,12,2025-11-28,out,"Bergstrom will sit out the November 28, 2025 contest versus the Dunmere Ironclads (rest)."
+70178,25110,1176,12,2025-11-28,out,Ibarra has been ruled out against the Dunmere Ironclads with hamstring tightness.
+70179,25110,1178,12,2025-11-28,out,Pellegrin has been ruled out against the Dunmere Ironclads with foot soreness.
+70180,25110,1179,12,2025-11-28,out,Rourke is unavailable against the Dunmere Ironclads due to rest.
+70181,25111,1141,10,2025-11-28,out,Belcourt (calf) is sidelined for the game against the Ironvale Mammoths.
+70182,25111,1157,11,2025-11-28,out,Fontaine is unavailable against the Sablecrest Outriders due to rest.
+70183,25112,1132,9,2025-11-28,out,Okafor (illness) is sidelined for the game against the Mirabel Sunhawks.
+70184,25112,1184,13,2025-11-28,out,"Mendez will sit out the November 28, 2025 contest versus the Redmesa Coyotes (rest)."
+70185,25114,1207,14,2025-11-29,out,Draper has been ruled out against the Redmesa Coyotes with a sprained ankle.
+70186,25115,1109,8,2025-11-29,out,"Mendez will sit out the November 29, 2025 contest versus the Lomacita Dusters (rest)."
+70187,25115,1212,15,2025-11-29,out,Osei is unavailable against the Glenrock Stags due to ankle soreness.
+70188,25115,1217,15,2025-11-29,out,"Hartigan will sit out the November 29, 2025 contest versus the Glenrock Stags (illness)."
+70189,25116,1025,2,2025-11-30,out,Hadderley has been ruled out against the Dunmere Ironclads with a sprained ankle.
+70190,25116,1067,5,2025-11-30,out,"Varga will sit out the November 30, 2025 contest versus the Saltmere Corsairs (wrist)."
+70191,25118,1004,1,2025-11-30,out,Okafor has been ruled out against the Calvara Gryphons with a sprained thumb.
+70192,25118,1014,1,2025-11-30,out,Brightwell has been ruled out against the Calvara Gryphons with hip soreness.
+70193,25119,1176,12,2025-11-30,out,"Ibarra is inactive for the matchup with the Vellmouth Gannets, and the team cites hamstring tightness."
+70194,25119,1178,12,2025-11-30,out,"Pellegrin will sit out the November 30, 2025 contest versus the Vellmouth Gannets (foot)."
+70195,25119,1180,12,2025-11-30,out,Varga is unavailable against the Vellmouth Gannets due to hamstring tightness.
+70196,25120,1078,6,2025-11-30,out,"Huxley has been held out on November 30, 2025 because of ankle soreness."
+70197,25120,1083,6,2025-11-30,out,Novak has been ruled out against the Sablecrest Outriders with an illness.
+70198,25120,1138,10,2025-11-30,out,Haddad (rest) is sidelined for the game against the Elkhollow Trappers.
+70199,25120,1141,10,2025-11-30,out,Belcourt is unavailable against the Elkhollow Trappers due to calf soreness.
+70200,25121,1004,1,2025-12-02,out,"Okafor has been held out on December 2, 2025 because of a sprained thumb."
+70201,25121,1014,1,2025-12-02,out,"Brightwell has been held out on December 2, 2025 because of hip soreness."
+70202,25122,1043,3,2025-12-02,out,Lachance (rest) is sidelined for the game against the Glenrock Stags.
+70203,25123,1062,5,2025-12-02,out,Novak is unavailable against the Lomacita Dusters due to rest.
+70204,25123,1067,5,2025-12-02,out,"Varga will sit out the December 2, 2025 contest versus the Lomacita Dusters (wrist)."
+70205,25123,1212,15,2025-12-02,out,Osei is unavailable against the Dunmere Ironclads due to ankle soreness.
+70206,25124,1101,7,2025-12-02,out,"Cardenas will sit out the December 2, 2025 contest versus the Cinderfall Wraiths (thumb)."
+70207,25124,1102,7,2025-12-02,out,Castell (back) is sidelined for the game against the Cinderfall Wraiths.
+70208,25124,1178,12,2025-12-02,out,Pellegrin is unavailable against the Norvale Zephyrs due to foot soreness.
+70209,25124,1180,12,2025-12-02,out,"Varga is inactive for the matchup with the Norvale Zephyrs, and the team cites hamstring tightness."
+70210,25125,1078,6,2025-12-03,out,Huxley is unavailable against the Tarrow Vipers due to ankle soreness.
+70211,25125,1080,6,2025-12-03,out,Castell-Rooney is unavailable against the Tarrow Vipers due to rest.
+70212,25125,1083,6,2025-12-03,out,Novak is unavailable against the Tarrow Vipers due to an illness.
+70213,25125,1204,14,2025-12-03,out,Haddad (ankle) is sidelined for the game against the Elkhollow Trappers.
+70214,25125,1207,14,2025-12-03,out,Draper (ankle) is sidelined for the game against the Elkhollow Trappers.
+70215,25126,1052,4,2025-12-03,out,"Valdez will sit out the December 3, 2025 contest versus the Redmesa Coyotes (rest)."
+70216,25127,1025,2,2025-12-03,out,Hadderley has been ruled out against the Sablecrest Outriders with a sprained ankle.
+70217,25127,1147,10,2025-12-03,out,"Kuznetsov is inactive for the matchup with the Saltmere Corsairs, and the team cites calf soreness."
+70218,25127,1148,10,2025-12-03,out,Vos has been ruled out against the Saltmere Corsairs with shoulder soreness.
+70219,25129,1004,1,2025-12-05,out,Okafor has been ruled out against the Saltmere Corsairs with a sprained thumb.
+70220,25129,1025,2,2025-12-05,out,"Hadderley will sit out the December 5, 2025 contest versus the Bramport Lanterns (ankle)."
+70221,25130,1049,4,2025-12-05,out,"Mendez is inactive for the matchup with the Glenrock Stags, and the team cites rest."
+70222,25131,1124,9,2025-12-05,out,Okafor (rest) is sidelined for the game against the Cinderfall Wraiths.
+70223,25131,1170,12,2025-12-05,out,Szabo is unavailable against the Redmesa Coyotes due to rest.
+70224,25131,1178,12,2025-12-05,out,"Pellegrin will sit out the December 5, 2025 contest versus the Redmesa Coyotes (foot)."
+70225,25131,1179,12,2025-12-05,out,Rourke is unavailable against the Redmesa Coyotes due to rest.
+70226,25132,1204,14,2025-12-05,out,Haddad has been ruled out against the Calvara Gryphons with a sprained ankle.
+70227,25132,1207,14,2025-12-05,out,Draper is unavailable against the Calvara Gryphons due to a sprained ankle.
+70228,25133,1031,3,2025-12-05,out,Thorsen is unavailable against the Ironvale Mammoths due to rest.
+70229,25133,1034,3,2025-12-05,out,Hadderley is unavailable against the Ironvale Mammoths due to rest.
+70230,25133,1164,11,2025-12-05,out,"Haddad is inactive for the matchup with the Vellmouth Gannets, and the team cites groin tightness."
+70231,25134,1067,5,2025-12-06,out,Varga has been ruled out against the Elkhollow Trappers with wrist soreness.
+70232,25134,1078,6,2025-12-06,out,"Huxley has been held out on December 6, 2025 because of ankle soreness."
+70233,25136,1101,7,2025-12-06,questionable,"Cardenas, listed as questionable with an illness, was cleared and played on December 6, 2025."
+70234,25137,1067,5,2025-12-08,out,Varga (wrist) is sidelined for the game against the Redmesa Coyotes.
+70235,25138,1178,12,2025-12-08,probable,"Even with a probable tag for hamstring soreness, Pellegrin took the floor on December 8, 2025."
+70236,25141,1078,6,2025-12-09,out,Huxley is unavailable against the Glenrock Stags due to ankle soreness.
+70237,25141,1112,8,2025-12-09,out,Pellegrin (ankle) is sidelined for the game against the Elkhollow Trappers.
+70238,25142,1025,2,2025-12-09,out,"Hadderley will sit out the December 9, 2025 contest versus the Tarrow Vipers (ankle)."
+70239,25142,1199,14,2025-12-09,out,Okafor (thumb) is sidelined for the game against the Saltmere Corsairs.
+70240,25142,1207,14,2025-12-09,out,"Draper is inactive for the matchup with the Saltmere Corsairs, and the team cites a sprained ankle."
+70241,25144,1004,1,2025-12-09,out,"Okafor has been held out on December 9, 2025 because of a sprained thumb."
+70242,25145,1004,1,2025-12-11,out,"Okafor has been held out on December 11, 2025 because of a sprained thumb."
+70243,25145,1008,1,2025-12-11,out,Mendez (rest) is sidelined for the game against the Vellmouth Gannets.
+70244,25146,1067,5,2025-12-11,out,"Varga is inactive for the matchup with the Cinderfall Wraiths, and the team cites wrist soreness."
+70245,25147,1207,14,2025-12-11,out,"Draper will sit out the December 11, 2025 contest versus the Glenrock Stags (ankle)."
+70246,25150,1078,6,2025-12-12,out,Huxley is unavailable against the Mirabel Sunhawks due to ankle soreness.
+70247,25150,1188,13,2025-12-12,out,Coker (rest) is sidelined for the game against the Elkhollow Trappers.
+70248,25151,1025,2,2025-12-12,out,"Hadderley will sit out the December 12, 2025 contest versus the Norvale Zephyrs (ankle)."
+70249,25152,1230,16,2025-12-12,out,"Mwangi will sit out the December 12, 2025 contest versus the Lomacita Dusters (rest)."
+70250,25153,1025,2,2025-12-13,out,"Hadderley has been held out on December 13, 2025 because of a sprained ankle."
+70251,25153,1038,3,2025-12-13,out,Mendez (rest) is sidelined for the game against the Saltmere Corsairs.
+70252,25154,1078,6,2025-12-13,out,Huxley (ankle) is sidelined for the game against the Sablecrest Outriders.
+70253,25155,1129,9,2025-12-13,out,"Tamura will sit out the December 13, 2025 contest versus the Mirabel Sunhawks (knee)."
+70254,25155,1192,13,2025-12-13,out,"Abernathy is inactive for the matchup with the Redmesa Coyotes, and the team cites a sprained thumb."
+70255,25157,1067,5,2025-12-14,out,Varga is unavailable against the Tarrow Vipers due to wrist soreness.
+70256,25157,1207,14,2025-12-14,out,"Draper is inactive for the matchup with the Dunmere Ironclads, and the team cites a sprained ankle."
+70257,25158,1229,16,2025-12-14,out,"Nakamura is inactive for the matchup with the Norvale Zephyrs, and the team cites rest."
+70258,25158,1236,16,2025-12-14,out,Gallio is unavailable against the Norvale Zephyrs due to rest.
+70259,25162,1230,16,2025-12-16,out,"Mwangi has been held out on December 16, 2025 because of calf tightness."
+70260,25164,1065,5,2025-12-17,out,"Larrabee will sit out the December 17, 2025 contest versus the Glenrock Stags (rest)."
+70261,25164,1067,5,2025-12-17,out,"Varga is inactive for the matchup with the Glenrock Stags, and the team cites wrist soreness."
+70262,25164,1074,5,2025-12-17,out,"Novak will sit out the December 17, 2025 contest versus the Glenrock Stags (hamstring)."
+70263,25165,1025,2,2025-12-17,probable,"Even with a probable tag for wrist tightness, Hadderley took the floor on December 17, 2025."
+70264,25166,1129,9,2025-12-17,out,Tamura is unavailable against the Sablecrest Outriders due to a sprained knee.
+70265,25167,1207,14,2025-12-17,out,"Draper will sit out the December 17, 2025 contest versus the Cinderfall Wraiths (ankle)."
+70266,25168,1078,6,2025-12-17,out,"Huxley has been held out on December 17, 2025 because of ankle soreness."
+70267,25169,1063,5,2025-12-19,out,"Bergstrom has been held out on December 19, 2025 because of shoulder tightness."
+70268,25169,1067,5,2025-12-19,out,"Varga has been held out on December 19, 2025 because of wrist soreness."
+70269,25169,1074,5,2025-12-19,out,Novak has been ruled out against the Mirabel Sunhawks with hamstring tightness.
+70270,25169,1194,13,2025-12-19,out,"Larrabee will sit out the December 19, 2025 contest versus the Dunmere Ironclads (rest)."
+70271,25170,1129,9,2025-12-19,out,"Tamura is inactive for the matchup with the Saltmere Corsairs, and the team cites a sprained knee."
+70272,25171,1091,7,2025-12-19,out,"Farrow will sit out the December 19, 2025 contest versus the Lomacita Dusters (wrist)."
+70273,25172,1156,11,2025-12-19,out,"Dlamini is inactive for the matchup with the Glenrock Stags, and the team cites hamstring soreness."
+70274,25172,1162,11,2025-12-19,out,Ibarra (foot) is sidelined for the game against the Glenrock Stags.
+70275,25173,1203,14,2025-12-19,out,Yardley has been ruled out against the Vellmouth Gannets with shoulder soreness.
+70276,25173,1207,14,2025-12-19,out,"Draper has been held out on December 19, 2025 because of a sprained ankle."
+70277,25174,1049,4,2025-12-20,out,Mendez is unavailable against the Bramport Lanterns due to rest.
+70278,25176,1078,6,2025-12-20,probable,"Huxley, listed as probable with foot tightness, was cleared and played on December 20, 2025."
+70279,25177,1121,9,2025-12-22,out,Wainwright (rest) is sidelined for the game against the Elkhollow Trappers.
+70280,25178,1156,11,2025-12-22,out,"Dlamini will sit out the December 22, 2025 contest versus the Saltmere Corsairs (rest)."
+70281,25178,1162,11,2025-12-22,out,"Ibarra is inactive for the matchup with the Saltmere Corsairs, and the team cites a sprained foot."
+70282,25179,1203,14,2025-12-22,probable,"Yardley, listed as probable with foot tightness, was cleared and played on December 22, 2025."
+70283,25179,1207,14,2025-12-22,out,"Draper will sit out the December 22, 2025 contest versus the Quarryton Foxhounds (ankle)."
+70284,25180,1195,13,2025-12-23,out,"Laurent is inactive for the matchup with the Bramport Lanterns, and the team cites an illness."
+70285,25181,1063,5,2025-12-23,out,"Bergstrom has been held out on December 23, 2025 because of shoulder tightness."
+70286,25181,1074,5,2025-12-23,out,"Novak will sit out the December 23, 2025 contest versus the Norvale Zephyrs (hamstring)."
+70287,25183,1034,3,2025-12-23,out,Hadderley is unavailable against the Cinderfall Wraiths due to rest.
+70288,25184,1236,16,2025-12-23,out,Gallio (rest) is sidelined for the game against the Sablecrest Outriders.
+70289,25185,1063,5,2025-12-25,out,Bergstrom has been ruled out against the Sablecrest Outriders with shoulder tightness.
+70290,25185,1074,5,2025-12-25,out,"Novak will sit out the December 25, 2025 contest versus the Sablecrest Outriders (hamstring)."
+70291,25186,1182,13,2025-12-25,out,"Lyle is inactive for the matchup with the Glenrock Stags, and the team cites rest."
+70292,25186,1195,13,2025-12-25,out,"Laurent has been held out on December 25, 2025 because of an illness."
+70293,25187,1031,3,2025-12-25,out,Thorsen (shoulder) is sidelined for the game against the Lomacita Dusters.
+70294,25187,1033,3,2025-12-25,out,"Engstrom is inactive for the matchup with the Lomacita Dusters, and the team cites a sprained thumb."
+70295,25188,1077,6,2025-12-26,out,"Stroud will sit out the December 26, 2025 contest versus the Bramport Lanterns (rest)."
+70296,25190,1207,14,2025-12-26,out,"Draper is inactive for the matchup with the Norvale Zephyrs, and the team cites a sprained ankle."
+70297,25191,1127,9,2025-12-26,out,"Farrow is inactive for the matchup with the Calvara Gryphons, and the team cites rest."
+70298,25192,1152,11,2025-12-26,out,Haddad (rest) is sidelined for the game against the Cinderfall Wraiths.
+70299,25192,1162,11,2025-12-26,out,"Ibarra is inactive for the matchup with the Cinderfall Wraiths, and the team cites a sprained foot."
+70300,25193,1162,11,2025-12-28,out,"Ibarra will sit out the December 28, 2025 contest versus the Sablecrest Outriders (foot)."
+70301,25194,1031,3,2025-12-28,out,Thorsen is unavailable against the Redmesa Coyotes due to shoulder tightness.
+70302,25194,1033,3,2025-12-28,out,"Engstrom will sit out the December 28, 2025 contest versus the Redmesa Coyotes (thumb)."
+70303,25195,1076,6,2025-12-28,out,Ivanov has been ruled out against the Lomacita Dusters with an illness.
+70304,25195,1220,15,2025-12-28,out,Underwood (groin) is sidelined for the game against the Elkhollow Trappers.
+70305,25196,1074,5,2025-12-29,out,"Novak is inactive for the matchup with the Saltmere Corsairs, and the team cites hamstring tightness."
+70306,25199,1207,14,2025-12-29,probable,"Even with a probable tag for quad soreness, Draper took the floor on December 29, 2025."
+70307,25200,1173,12,2025-12-29,out,"Ellery will sit out the December 29, 2025 contest versus the Calvara Gryphons (wrist)."
+70308,25202,1076,6,2025-12-30,out,Ivanov (illness) is sidelined for the game against the Cinderfall Wraiths.
+70309,25202,1087,6,2025-12-30,out,Whitcombe has been ruled out against the Cinderfall Wraiths with thumb tightness.
+70310,25202,1173,12,2025-12-30,out,"Ellery will sit out the December 30, 2025 contest versus the Elkhollow Trappers (wrist)."
+70311,25203,1152,11,2025-12-30,out,"Haddad will sit out the December 30, 2025 contest versus the Norvale Zephyrs (rest)."
+70312,25203,1162,11,2025-12-30,out,Ibarra has been ruled out against the Norvale Zephyrs with a sprained foot.
+70313,25205,1031,3,2025-12-30,out,"Thorsen is inactive for the matchup with the Sablecrest Outriders, and the team cites shoulder tightness."
+70314,25205,1033,3,2025-12-30,out,"Engstrom will sit out the December 30, 2025 contest versus the Sablecrest Outriders (thumb)."
+70315,25206,1063,5,2025-12-31,out,Bergstrom has been ruled out against the Quarryton Foxhounds with a sprained knee.
+70316,25206,1074,5,2025-12-31,out,"Novak is inactive for the matchup with the Quarryton Foxhounds, and the team cites hamstring tightness."
+70317,25207,1192,13,2025-12-31,out,"Abernathy will sit out the December 31, 2025 contest versus the Lomacita Dusters (rest)."
+70318,25207,1220,15,2025-12-31,out,"Underwood has been held out on December 31, 2025 because of groin tightness."
+70319,25208,1018,2,2025-12-31,out,"Kuznetsov is inactive for the matchup with the Calvara Gryphons, and the team cites quad soreness."
+70320,25209,1076,6,2026-01-02,out,Ivanov has been ruled out against the Quarryton Foxhounds with an illness.
+70321,25209,1087,6,2026-01-02,out,"Whitcombe is inactive for the matchup with the Quarryton Foxhounds, and the team cites thumb tightness."
+70322,25210,1120,8,2026-01-02,out,"Hartigan is inactive for the matchup with the Norvale Zephyrs, and the team cites wrist soreness."
+70323,25213,1031,3,2026-01-03,out,Thorsen has been ruled out against the Dunmere Ironclads with shoulder tightness.
+70324,25213,1033,3,2026-01-03,out,Engstrom is unavailable against the Dunmere Ironclads due to a sprained thumb.
+70325,25213,1074,5,2026-01-03,out,Novak (hamstring) is sidelined for the game against the Vellmouth Gannets.
+70326,25214,1018,2,2026-01-03,out,Kuznetsov is unavailable against the Mirabel Sunhawks due to quad soreness.
+70327,25214,1023,2,2026-01-03,out,"Kilbride is inactive for the matchup with the Mirabel Sunhawks, and the team cites quad tightness."
+70328,25215,1173,12,2026-01-03,out,Ellery is unavailable against the Lomacita Dusters due to a sprained wrist.
+70329,25215,1220,15,2026-01-03,out,Underwood (groin) is sidelined for the game against the Cinderfall Wraiths.
+70330,25216,1138,10,2026-01-03,out,"Haddad is inactive for the matchup with the Bramport Lanterns, and the team cites rest."
+70331,25216,1150,10,2026-01-03,out,"Stroud is inactive for the matchup with the Bramport Lanterns, and the team cites rest."
+70332,25217,1018,2,2026-01-05,out,"Kuznetsov will sit out the January 5, 2026 contest versus the Glenrock Stags (quad)."
+70333,25217,1023,2,2026-01-05,out,Kilbride is unavailable against the Glenrock Stags due to quad tightness.
+70334,25217,1117,8,2026-01-05,out,"Whitlock is inactive for the matchup with the Saltmere Corsairs, and the team cites thumb soreness."
+70335,25218,1031,3,2026-01-05,out,"Thorsen has been held out on January 5, 2026 because of shoulder tightness."
+70336,25218,1033,3,2026-01-05,out,Engstrom is unavailable against the Quarryton Foxhounds due to a sprained thumb.
+70337,25219,1074,5,2026-01-05,out,"Novak has been held out on January 5, 2026 because of hamstring tightness."
+70338,25220,1173,12,2026-01-05,out,Ellery is unavailable against the Bramport Lanterns due to a sprained wrist.
+70339,25221,1076,6,2026-01-06,out,"Ivanov is inactive for the matchup with the Norvale Zephyrs, and the team cites an illness."
+70340,25221,1087,6,2026-01-06,out,"Whitcombe has been held out on January 6, 2026 because of thumb tightness."
+70341,25221,1105,7,2026-01-06,out,Hadderley is unavailable against the Elkhollow Trappers due to wrist tightness.
+70342,25223,1209,14,2026-01-06,out,Kuznetsov has been ruled out against the Ironvale Mammoths with an illness.
+70343,25224,1129,9,2026-01-06,out,"Tamura will sit out the January 6, 2026 contest versus the Lomacita Dusters (foot)."
+70344,25224,1220,15,2026-01-06,out,"Underwood will sit out the January 6, 2026 contest versus the Redmesa Coyotes (groin)."
+70345,25226,1116,8,2026-01-08,out,"Varga will sit out the January 8, 2026 contest versus the Sablecrest Outriders (illness)."
+70346,25226,1117,8,2026-01-08,out,Whitlock (thumb) is sidelined for the game against the Sablecrest Outriders.
+70347,25226,1119,8,2026-01-08,out,Nakamura has been ruled out against the Sablecrest Outriders with hip tightness.
+70348,25226,1143,10,2026-01-08,out,Varga (ankle) is sidelined for the game against the Glenrock Stags.
+70349,25227,1124,9,2026-01-08,out,Okafor is unavailable against the Bramport Lanterns due to rest.
+70350,25229,1209,14,2026-01-08,out,Kuznetsov is unavailable against the Lomacita Dusters due to an illness.
+70351,25229,1220,15,2026-01-08,out,"Underwood is inactive for the matchup with the Tarrow Vipers, and the team cites groin tightness."
+70352,25229,1223,15,2026-01-08,out,"Farrow is inactive for the matchup with the Tarrow Vipers, and the team cites rest."
+70353,25230,1023,2,2026-01-09,out,Kilbride is unavailable against the Elkhollow Trappers due to quad tightness.
+70354,25230,1076,6,2026-01-09,out,Ivanov has been ruled out against the Saltmere Corsairs with an illness.
+70355,25230,1087,6,2026-01-09,out,"Whitcombe will sit out the January 9, 2026 contest versus the Saltmere Corsairs (thumb)."
+70356,25231,1031,3,2026-01-09,out,"Thorsen has been held out on January 9, 2026 because of shoulder tightness."
+70357,25231,1042,3,2026-01-09,out,Hadderley has been ruled out against the Norvale Zephyrs with a sprained ankle.
+70358,25231,1105,7,2026-01-09,out,"Hadderley has been held out on January 9, 2026 because of wrist tightness."
+70359,25232,1064,5,2026-01-09,out,Hadderley (knee) is sidelined for the game against the Ironvale Mammoths.
+70360,25232,1074,5,2026-01-09,out,Novak (hamstring) is sidelined for the game against the Ironvale Mammoths.
+70361,25232,1157,11,2026-01-09,out,"Fontaine is inactive for the matchup with the Dunmere Ironclads, and the team cites foot soreness."
+70362,25233,1031,3,2026-01-11,out,Thorsen has been ruled out against the Elkhollow Trappers with shoulder tightness.
+70363,25233,1042,3,2026-01-11,out,Hadderley has been ruled out against the Elkhollow Trappers with a sprained ankle.
+70364,25233,1076,6,2026-01-11,out,Ivanov (illness) is sidelined for the game against the Vellmouth Gannets.
+70365,25233,1086,6,2026-01-11,out,"Underwood is inactive for the matchup with the Vellmouth Gannets, and the team cites rest."
+70366,25233,1087,6,2026-01-11,out,"Whitcombe will sit out the January 11, 2026 contest versus the Vellmouth Gannets (thumb)."
+70367,25234,1157,11,2026-01-11,out,Fontaine is unavailable against the Mirabel Sunhawks due to foot soreness.
+70368,25235,1116,8,2026-01-11,out,Varga has been ruled out against the Calvara Gryphons with an illness.
+70369,25235,1117,8,2026-01-11,out,Whitlock is unavailable against the Calvara Gryphons due to thumb soreness.
+70370,25235,1236,16,2026-01-11,out,"Gallio will sit out the January 11, 2026 contest versus the Glenrock Stags (concussion)."
+70371,25236,1140,10,2026-01-11,out,O'Meara (rest) is sidelined for the game against the Tarrow Vipers.
+70372,25236,1209,14,2026-01-11,out,Kuznetsov (illness) is sidelined for the game against the Sablecrest Outriders.
+70373,25237,1023,2,2026-01-11,out,"Kilbride is inactive for the matchup with the Cinderfall Wraiths, and the team cites quad tightness."
+70374,25238,1074,5,2026-01-12,out,"Novak will sit out the January 12, 2026 contest versus the Bramport Lanterns (hamstring)."
+70375,25240,1105,7,2026-01-12,out,"Hadderley will sit out the January 12, 2026 contest versus the Redmesa Coyotes (wrist)."
+70376,25240,1132,9,2026-01-12,out,Okafor is unavailable against the Norvale Zephyrs due to knee soreness.
+70377,25241,1074,5,2026-01-13,out,"Novak has been held out on January 13, 2026 because of hamstring tightness."
+70378,25242,1031,3,2026-01-13,out,"Thorsen is inactive for the matchup with the Sablecrest Outriders, and the team cites shoulder tightness."
+70379,25242,1042,3,2026-01-13,out,Hadderley is unavailable against the Sablecrest Outriders due to a sprained ankle.
+70380,25242,1150,10,2026-01-13,out,Stroud (rest) is sidelined for the game against the Vellmouth Gannets.
+70381,25243,1116,8,2026-01-13,out,Varga is unavailable against the Redmesa Coyotes due to an illness.
+70382,25243,1132,9,2026-01-13,out,"Okafor will sit out the January 13, 2026 contest versus the Glenrock Stags (knee)."
+70383,25244,1076,6,2026-01-13,out,"Ivanov will sit out the January 13, 2026 contest versus the Mirabel Sunhawks (illness)."
+70384,25244,1086,6,2026-01-13,out,Underwood is unavailable against the Mirabel Sunhawks due to rest.
+70385,25244,1087,6,2026-01-13,out,"Whitcombe has been held out on January 13, 2026 because of thumb tightness."
+70386,25245,1209,14,2026-01-13,out,Kuznetsov has been ruled out against the Bramport Lanterns with an illness.
+70387,25246,1100,7,2026-01-14,out,"Brannagh is inactive for the matchup with the Ironvale Mammoths, and the team cites rest."
+70388,25246,1105,7,2026-01-14,out,Hadderley (wrist) is sidelined for the game against the Ironvale Mammoths.
+70389,25246,1157,11,2026-01-14,out,Fontaine (foot) is sidelined for the game against the Norvale Zephyrs.
+70390,25247,1050,4,2026-01-14,out,Wainwright is unavailable against the Lomacita Dusters due to rest.
+70391,25248,1023,2,2026-01-14,out,"Kilbride has been held out on January 14, 2026 because of quad tightness."
+70392,25251,1023,2,2026-01-16,out,Kilbride (quad) is sidelined for the game against the Tarrow Vipers.
+70393,25251,1029,2,2026-01-16,out,"Wainwright will sit out the January 16, 2026 contest versus the Tarrow Vipers (thumb)."
+70394,25251,1209,14,2026-01-16,out,"Kuznetsov has been held out on January 16, 2026 because of an illness."
+70395,25252,1132,9,2026-01-16,out,Okafor (knee) is sidelined for the game against the Lomacita Dusters.
+70396,25254,1232,16,2026-01-17,out,"Nwosu has been held out on January 17, 2026 because of a sprained ankle."
+70397,25255,1074,5,2026-01-17,out,Novak has been ruled out against the Norvale Zephyrs with hamstring tightness.
+70398,25255,1105,7,2026-01-17,out,"Hadderley has been held out on January 17, 2026 because of wrist tightness."
+70399,25256,1076,6,2026-01-17,out,"Ivanov has been held out on January 17, 2026 because of an illness."
+70400,25256,1087,6,2026-01-17,out,"Whitcombe will sit out the January 17, 2026 contest versus the Glenrock Stags (thumb)."
+70401,25256,1088,6,2026-01-17,out,Thorsen has been ruled out against the Glenrock Stags with hip tightness.
+70402,25256,1116,8,2026-01-17,out,Varga (illness) is sidelined for the game against the Elkhollow Trappers.
+70403,25257,1076,6,2026-01-19,out,Ivanov is unavailable against the Redmesa Coyotes due to an illness.
+70404,25257,1087,6,2026-01-19,out,Whitcombe is unavailable against the Redmesa Coyotes due to thumb tightness.
+70405,25257,1128,9,2026-01-19,out,"Hadderley will sit out the January 19, 2026 contest versus the Elkhollow Trappers (rest)."
+70406,25258,1105,7,2026-01-19,out,"Hadderley is inactive for the matchup with the Sablecrest Outriders, and the team cites wrist tightness."
+70407,25258,1143,10,2026-01-19,out,"Varga will sit out the January 19, 2026 contest versus the Norvale Zephyrs (shoulder)."
+70408,25259,1209,14,2026-01-19,out,Kuznetsov (illness) is sidelined for the game against the Calvara Gryphons.
+70409,25260,1074,5,2026-01-19,out,"Novak has been held out on January 19, 2026 because of hamstring tightness."
+70410,25260,1177,12,2026-01-19,out,Kuznetsov has been ruled out against the Dunmere Ironclads with thumb tightness.
+70411,25262,1109,8,2026-01-20,out,"Mendez will sit out the January 20, 2026 contest versus the Bramport Lanterns (rest)."
+70412,25262,1116,8,2026-01-20,out,"Varga has been held out on January 20, 2026 because of an illness."
+70413,25263,1161,11,2026-01-20,out,"Hensley is inactive for the matchup with the Quarryton Foxhounds, and the team cites a sprained wrist."
+70414,25264,1016,2,2026-01-20,out,Kincaid (rest) is sidelined for the game against the Mirabel Sunhawks.
+70415,25264,1023,2,2026-01-20,out,Kilbride has been ruled out against the Mirabel Sunhawks with quad tightness.
+70416,25264,1029,2,2026-01-20,out,"Wainwright has been held out on January 20, 2026 because of thumb tightness."
+70417,25264,1183,13,2026-01-20,out,"Valdez has been held out on January 20, 2026 because of calf soreness."
+70418,25265,1161,11,2026-01-22,out,Hensley has been ruled out against the Vellmouth Gannets with a sprained wrist.
+70419,25266,1076,6,2026-01-22,out,Ivanov (illness) is sidelined for the game against the Bramport Lanterns.
+70420,25266,1087,6,2026-01-22,out,Whitcombe is unavailable against the Bramport Lanterns due to thumb tightness.
+70421,25267,1046,4,2026-01-22,out,"Eze will sit out the January 22, 2026 contest versus the Norvale Zephyrs (rest)."
+70422,25267,1105,7,2026-01-22,out,"Hadderley is inactive for the matchup with the Quarryton Foxhounds, and the team cites wrist tightness."
+70423,25268,1016,2,2026-01-22,out,"Kincaid will sit out the January 22, 2026 contest versus the Redmesa Coyotes (rest)."
+70424,25268,1023,2,2026-01-22,out,Kilbride is unavailable against the Redmesa Coyotes due to quad tightness.
+70425,25268,1029,2,2026-01-22,out,"Wainwright is inactive for the matchup with the Redmesa Coyotes, and the team cites thumb tightness."
+70426,25269,1209,14,2026-01-22,out,Kuznetsov (illness) is sidelined for the game against the Cinderfall Wraiths.
+70427,25271,1183,13,2026-01-23,out,"Valdez is inactive for the matchup with the Dunmere Ironclads, and the team cites calf soreness."
+70428,25272,1108,8,2026-01-23,out,"Osei is inactive for the matchup with the Calvara Gryphons, and the team cites rest."
+70429,25272,1116,8,2026-01-23,out,"Varga has been held out on January 23, 2026 because of an illness."
+70430,25272,1228,16,2026-01-23,out,"Tavares is inactive for the matchup with the Glenrock Stags, and the team cites rest."
+70431,25273,1116,8,2026-01-25,out,"Varga will sit out the January 25, 2026 contest versus the Vellmouth Gannets (illness)."
+70432,25274,1023,2,2026-01-25,out,Kilbride is unavailable against the Ironvale Mammoths due to quad tightness.
+70433,25274,1029,2,2026-01-25,out,Wainwright (thumb) is sidelined for the game against the Ironvale Mammoths.
+70434,25274,1153,11,2026-01-25,out,Mendez is unavailable against the Saltmere Corsairs due to rest.
+70435,25274,1161,11,2026-01-25,out,Hensley has been ruled out against the Saltmere Corsairs with a sprained wrist.
+70436,25275,1002,1,2026-01-25,out,Kincaid is unavailable against the Mirabel Sunhawks due to rest.
+70437,25275,1183,13,2026-01-25,out,"Valdez has been held out on January 25, 2026 because of calf soreness."
+70438,25276,1209,14,2026-01-25,out,Kuznetsov (illness) is sidelined for the game against the Sablecrest Outriders.
+70439,25277,1100,7,2026-01-26,out,"Brannagh will sit out the January 26, 2026 contest versus the Redmesa Coyotes (hip)."
+70440,25277,1105,7,2026-01-26,out,Hadderley (wrist) is sidelined for the game against the Redmesa Coyotes.
+70441,25277,1127,9,2026-01-26,out,"Farrow has been held out on January 26, 2026 because of shoulder soreness."
+70442,25277,1133,9,2026-01-26,out,"Mendez is inactive for the matchup with the Norvale Zephyrs, and the team cites groin soreness."
+70443,25278,1214,15,2026-01-26,out,"Mahoney will sit out the January 26, 2026 contest versus the Dunmere Ironclads (rest)."
+70444,25279,1076,6,2026-01-26,out,"Ivanov will sit out the January 26, 2026 contest versus the Quarryton Foxhounds (illness)."
+70445,25279,1087,6,2026-01-26,out,Whitcombe (thumb) is sidelined for the game against the Quarryton Foxhounds.
+70446,25280,1169,12,2026-01-26,out,"Ferreira will sit out the January 26, 2026 contest versus the Calvara Gryphons (back)."
+70447,25281,1169,12,2026-01-27,out,Ferreira has been ruled out against the Bramport Lanterns with back tightness.
+70448,25282,1100,7,2026-01-27,out,Brannagh (hip) is sidelined for the game against the Calvara Gryphons.
+70449,25282,1105,7,2026-01-27,out,"Hadderley will sit out the January 27, 2026 contest versus the Calvara Gryphons (wrist)."
+70450,25283,1133,9,2026-01-27,out,Mendez (groin) is sidelined for the game against the Mirabel Sunhawks.
+70451,25283,1183,13,2026-01-27,out,"Valdez will sit out the January 27, 2026 contest versus the Redmesa Coyotes (calf)."
+70452,25285,1209,14,2026-01-27,out,Kuznetsov is unavailable against the Vellmouth Gannets due to an illness.
+70453,25286,1050,4,2026-01-28,out,"Wainwright will sit out the January 28, 2026 contest versus the Glenrock Stags (illness)."
+70454,25286,1116,8,2026-01-28,out,"Varga will sit out the January 28, 2026 contest versus the Quarryton Foxhounds (illness)."
+70455,25287,1017,2,2026-01-28,out,"Fontaine will sit out the January 28, 2026 contest versus the Lomacita Dusters (rest)."
+70456,25287,1023,2,2026-01-28,out,Kilbride has been ruled out against the Lomacita Dusters with quad tightness.
+70457,25287,1029,2,2026-01-28,out,"Wainwright has been held out on January 28, 2026 because of thumb tightness."
+70458,25287,1215,15,2026-01-28,out,"Ferreira will sit out the January 28, 2026 contest versus the Saltmere Corsairs (thumb)."
+70459,25288,1076,6,2026-01-28,out,"Ivanov will sit out the January 28, 2026 contest versus the Ironvale Mammoths (illness)."
+70460,25288,1086,6,2026-01-28,out,"Underwood is inactive for the matchup with the Ironvale Mammoths, and the team cites rest."
+70461,25288,1087,6,2026-01-28,out,"Whitcombe has been held out on January 28, 2026 because of thumb tightness."
+70462,25288,1161,11,2026-01-28,out,"Hensley will sit out the January 28, 2026 contest versus the Elkhollow Trappers (wrist)."
+70463,25289,1016,2,2026-01-30,out,Kincaid is unavailable against the Quarryton Foxhounds due to rest.
+70464,25289,1023,2,2026-01-30,out,Kilbride is unavailable against the Quarryton Foxhounds due to quad tightness.
+70465,25289,1024,2,2026-01-30,out,"Larrabee will sit out the January 30, 2026 contest versus the Quarryton Foxhounds (rest)."
+70466,25289,1029,2,2026-01-30,out,"Wainwright has been held out on January 30, 2026 because of thumb tightness."
+70467,25289,1050,4,2026-01-30,out,"Wainwright has been held out on January 30, 2026 because of an illness."
+70468,25290,1116,8,2026-01-30,out,Varga (illness) is sidelined for the game against the Sablecrest Outriders.
+70469,25290,1146,10,2026-01-30,out,Moreau (back) is sidelined for the game against the Glenrock Stags.
+70470,25291,1152,11,2026-01-30,out,Haddad (wrist) is sidelined for the game against the Dunmere Ironclads.
+70471,25291,1161,11,2026-01-30,out,Hensley (wrist) is sidelined for the game against the Dunmere Ironclads.
+70472,25292,1133,9,2026-01-30,out,"Mendez is inactive for the matchup with the Bramport Lanterns, and the team cites groin soreness."
+70473,25292,1135,9,2026-01-30,out,"Ferreira is inactive for the matchup with the Bramport Lanterns, and the team cites rest."
+70474,25293,1208,14,2026-01-30,out,"Corrigan is inactive for the matchup with the Lomacita Dusters, and the team cites foot tightness."
+70475,25293,1209,14,2026-01-30,out,Kuznetsov (illness) is sidelined for the game against the Lomacita Dusters.
+70476,25294,1035,3,2026-01-31,out,Esposito is unavailable against the Elkhollow Trappers due to concussion protocol.
+70477,25294,1043,3,2026-01-31,out,Lachance is unavailable against the Elkhollow Trappers due to rest.
+70478,25294,1076,6,2026-01-31,out,Ivanov (illness) is sidelined for the game against the Vellmouth Gannets.
+70479,25294,1087,6,2026-01-31,out,Whitcombe (thumb) is sidelined for the game against the Vellmouth Gannets.
+70480,25295,1105,7,2026-01-31,out,"Hadderley has been held out on January 31, 2026 because of wrist tightness."
+70481,25295,1166,12,2026-01-31,out,"Brannagh is inactive for the matchup with the Norvale Zephyrs, and the team cites rest."
+70482,25295,1173,12,2026-01-31,out,Ellery has been ruled out against the Norvale Zephyrs with an illness.
+70483,25296,1183,13,2026-01-31,out,"Valdez has been held out on January 31, 2026 because of calf soreness."
+70484,25296,1193,13,2026-01-31,out,Nakamura (back) is sidelined for the game against the Calvara Gryphons.
+70485,25297,1035,3,2026-02-02,out,Esposito is unavailable against the Dunmere Ironclads due to concussion protocol.
+70486,25298,1023,2,2026-02-02,out,Kilbride (quad) is sidelined for the game against the Sablecrest Outriders.
+70487,25298,1029,2,2026-02-02,out,Wainwright (thumb) is sidelined for the game against the Sablecrest Outriders.
+70488,25298,1146,10,2026-02-02,probable,"Even with a probable tag for concussion protocol, Moreau took the floor on February 2, 2026."
+70489,25298,1150,10,2026-02-02,out,"Stroud will sit out the February 2, 2026 contest versus the Saltmere Corsairs (thumb)."
+70490,25300,1116,8,2026-02-02,out,Varga is unavailable against the Ironvale Mammoths due to an illness.
+70491,25300,1152,11,2026-02-02,out,Haddad (rest) is sidelined for the game against the Glenrock Stags.
+70492,25300,1157,11,2026-02-02,out,Fontaine is unavailable against the Glenrock Stags due to rest.
+70493,25300,1161,11,2026-02-02,out,"Hensley is inactive for the matchup with the Glenrock Stags, and the team cites a sprained wrist."
+70494,25300,1164,11,2026-02-02,out,Haddad is unavailable against the Glenrock Stags due to wrist tightness.
+70495,25301,1050,4,2026-02-03,out,Wainwright (illness) is sidelined for the game against the Tarrow Vipers.
+70496,25301,1208,14,2026-02-03,out,Corrigan has been ruled out against the Quarryton Foxhounds with foot tightness.
+70497,25302,1121,9,2026-02-03,out,Wainwright is unavailable against the Cinderfall Wraiths due to rest.
+70498,25302,1130,9,2026-02-03,out,"Szabo will sit out the February 3, 2026 contest versus the Cinderfall Wraiths (wrist)."
+70499,25302,1133,9,2026-02-03,out,"Mendez has been held out on February 3, 2026 because of groin soreness."
+70500,25302,1166,12,2026-02-03,out,"Brannagh will sit out the February 3, 2026 contest versus the Redmesa Coyotes (rest)."
+70501,25302,1167,12,2026-02-03,out,Bergstrom (rest) is sidelined for the game against the Redmesa Coyotes.
+70502,25303,1183,13,2026-02-03,out,"Valdez has been held out on February 3, 2026 because of calf soreness."
+70503,25303,1193,13,2026-02-03,out,"Nakamura will sit out the February 3, 2026 contest versus the Norvale Zephyrs (back)."
+70504,25304,1076,6,2026-02-03,out,Ivanov (illness) is sidelined for the game against the Lomacita Dusters.
+70505,25305,1183,13,2026-02-05,out,"Valdez is inactive for the matchup with the Lomacita Dusters, and the team cites calf soreness."
+70506,25305,1193,13,2026-02-05,out,Nakamura is unavailable against the Lomacita Dusters due to back soreness.
+70507,25306,1209,14,2026-02-05,out,"Kuznetsov is inactive for the matchup with the Elkhollow Trappers, and the team cites knee soreness."
+70508,25307,1127,9,2026-02-05,out,"Farrow has been held out on February 5, 2026 because of ankle soreness."
+70509,25307,1130,9,2026-02-05,out,"Szabo has been held out on February 5, 2026 because of wrist soreness."
+70510,25307,1133,9,2026-02-05,out,"Mendez has been held out on February 5, 2026 because of groin soreness."
+70511,25309,1029,2,2026-02-06,out,Wainwright (thumb) is sidelined for the game against the Dunmere Ironclads.
+70512,25310,1001,1,2026-02-06,out,Cardenas (rest) is sidelined for the game against the Vellmouth Gannets.
+70513,25310,1038,3,2026-02-06,out,"Mendez will sit out the February 6, 2026 contest versus the Bramport Lanterns (quad)."
+70514,25311,1097,7,2026-02-06,out,Sorrell is unavailable against the Glenrock Stags due to back soreness.
+70515,25311,1116,8,2026-02-06,out,Varga has been ruled out against the Norvale Zephyrs with an illness.
+70516,25311,1119,8,2026-02-06,out,Nakamura is unavailable against the Norvale Zephyrs due to rest.
+70517,25312,1161,11,2026-02-06,out,"Hensley is inactive for the matchup with the Cinderfall Wraiths, and the team cites a sprained wrist."
+70518,25312,1164,11,2026-02-06,out,"Haddad is inactive for the matchup with the Cinderfall Wraiths, and the team cites wrist tightness."
+70519,25314,1029,2,2026-02-08,out,Wainwright has been ruled out against the Glenrock Stags with thumb tightness.
+70520,25314,1109,8,2026-02-08,out,"Mendez is inactive for the matchup with the Saltmere Corsairs, and the team cites rest."
+70521,25314,1116,8,2026-02-08,out,"Varga has been held out on February 8, 2026 because of an illness."
+70522,25315,1209,14,2026-02-08,out,"Kuznetsov has been held out on February 8, 2026 because of knee soreness."
+70523,25316,1145,10,2026-02-08,out,Trask is unavailable against the Calvara Gryphons due to rest.
+70524,25316,1231,16,2026-02-08,out,"Ibarra is inactive for the matchup with the Sablecrest Outriders, and the team cites rest."
+70525,25316,1233,16,2026-02-08,out,"Kowalski is inactive for the matchup with the Sablecrest Outriders, and the team cites an illness."
+70526,25317,1097,7,2026-02-09,out,"Sorrell will sit out the February 9, 2026 contest versus the Elkhollow Trappers (back)."
+70527,25317,1100,7,2026-02-09,out,"Brannagh will sit out the February 9, 2026 contest versus the Elkhollow Trappers (rest)."
+70528,25318,1038,3,2026-02-09,out,"Mendez has been held out on February 9, 2026 because of quad tightness."
+70529,25319,1127,9,2026-02-09,out,Farrow (ankle) is sidelined for the game against the Ironvale Mammoths.
+70530,25319,1130,9,2026-02-09,out,Szabo is unavailable against the Ironvale Mammoths due to wrist soreness.
+70531,25319,1161,11,2026-02-09,out,"Hensley will sit out the February 9, 2026 contest versus the Redmesa Coyotes (wrist)."
+70532,25319,1164,11,2026-02-09,out,"Haddad has been held out on February 9, 2026 because of wrist tightness."
+70533,25320,1183,13,2026-02-09,out,"Valdez will sit out the February 9, 2026 contest versus the Quarryton Foxhounds (calf)."
+70534,25320,1193,13,2026-02-09,out,"Nakamura is inactive for the matchup with the Quarryton Foxhounds, and the team cites back soreness."
+70535,25321,1014,1,2026-02-11,out,"Brightwell will sit out the February 11, 2026 contest versus the Saltmere Corsairs (concussion)."
+70536,25321,1021,2,2026-02-11,out,Hensley (shoulder) is sidelined for the game against the Bramport Lanterns.
+70537,25321,1024,2,2026-02-11,out,"Larrabee is inactive for the matchup with the Bramport Lanterns, and the team cites rest."
+70538,25321,1029,2,2026-02-11,out,Wainwright is unavailable against the Bramport Lanterns due to thumb tightness.
+70539,25322,1038,3,2026-02-11,out,"Mendez has been held out on February 11, 2026 because of quad tightness."
+70540,25323,1139,10,2026-02-11,out,"Ferreira has been held out on February 11, 2026 because of a sprained knee."
+70541,25323,1153,11,2026-02-11,out,Mendez (hip) is sidelined for the game against the Sablecrest Outriders.
+70542,25323,1161,11,2026-02-11,out,"Hensley will sit out the February 11, 2026 contest versus the Sablecrest Outriders (wrist)."
+70543,25323,1164,11,2026-02-11,out,"Haddad has been held out on February 11, 2026 because of wrist tightness."
+70544,25324,1127,9,2026-02-12,out,"Farrow will sit out the February 12, 2026 contest versus the Dunmere Ironclads (ankle)."
+70545,25324,1130,9,2026-02-12,out,Szabo has been ruled out against the Dunmere Ironclads with wrist soreness.
+70546,25325,1116,8,2026-02-12,out,Varga has been ruled out against the Cinderfall Wraiths with an illness.
+70547,25326,1183,13,2026-02-12,out,Valdez (calf) is sidelined for the game against the Tarrow Vipers.
+70548,25326,1194,13,2026-02-12,out,Larrabee is unavailable against the Tarrow Vipers due to groin soreness.
+70549,25326,1207,14,2026-02-12,out,"Draper has been held out on February 12, 2026 because of back soreness."
+70550,25327,1097,7,2026-02-12,out,"Sorrell is inactive for the matchup with the Lomacita Dusters, and the team cites back soreness."
+70551,25328,1090,6,2026-02-12,out,"Kilbride will sit out the February 12, 2026 contest versus the Calvara Gryphons (illness)."
+70552,25328,1240,16,2026-02-12,out,Zielinski is unavailable against the Elkhollow Trappers due to quad tightness.
+70553,25329,1090,6,2026-02-19,out,"Kilbride is inactive for the matchup with the Sablecrest Outriders, and the team cites an illness."
+70554,25329,1141,10,2026-02-19,out,Belcourt is unavailable against the Elkhollow Trappers due to concussion protocol.
+70555,25330,1021,2,2026-02-19,out,"Hensley has been held out on February 19, 2026 because of shoulder soreness."
+70556,25330,1024,2,2026-02-19,out,Larrabee is unavailable against the Vellmouth Gannets due to a sprained knee.
+70557,25330,1026,2,2026-02-19,out,Iwu (calf) is sidelined for the game against the Vellmouth Gannets.
+70558,25331,1127,9,2026-02-19,out,"Farrow is inactive for the matchup with the Calvara Gryphons, and the team cites ankle soreness."
+70559,25331,1240,16,2026-02-19,out,"Zielinski is inactive for the matchup with the Redmesa Coyotes, and the team cites quad tightness."
+70560,25332,1183,13,2026-02-19,out,Valdez (calf) is sidelined for the game against the Cinderfall Wraiths.
+70561,25333,1072,5,2026-02-20,out,Cardenas has been ruled out against the Quarryton Foxhounds with concussion protocol.
+70562,25334,1212,15,2026-02-20,out,"Osei has been held out on February 20, 2026 because of wrist tightness."
+70563,25335,1014,1,2026-02-20,out,"Brightwell has been held out on February 20, 2026 because of concussion protocol."
+70564,25335,1096,7,2026-02-20,out,"Renner will sit out the February 20, 2026 contest versus the Bramport Lanterns (concussion)."
+70565,25335,1097,7,2026-02-20,out,Sorrell is unavailable against the Bramport Lanterns due to back soreness.
+70566,25336,1153,11,2026-02-20,out,"Mendez is inactive for the matchup with the Tarrow Vipers, and the team cites hip tightness."
+70567,25336,1159,11,2026-02-20,out,"Nesbitt is inactive for the matchup with the Tarrow Vipers, and the team cites groin tightness."
+70568,25336,1161,11,2026-02-20,out,Hensley is unavailable against the Tarrow Vipers due to groin soreness.
+70569,25336,1207,14,2026-02-20,out,"Draper is inactive for the matchup with the Ironvale Mammoths, and the team cites back soreness."
+70570,25336,1210,14,2026-02-20,out,Whitcombe has been ruled out against the Ironvale Mammoths with concussion protocol.
+70571,25337,1021,2,2026-02-22,out,"Hensley has been held out on February 22, 2026 because of shoulder soreness."
+70572,25337,1024,2,2026-02-22,out,Larrabee has been ruled out against the Norvale Zephyrs with a sprained knee.
+70573,25337,1097,7,2026-02-22,out,"Sorrell has been held out on February 22, 2026 because of back soreness."
+70574,25337,1100,7,2026-02-22,out,"Brannagh is inactive for the matchup with the Saltmere Corsairs, and the team cites rest."
+70575,25338,1123,9,2026-02-22,out,"Halvorsen will sit out the February 22, 2026 contest versus the Vellmouth Gannets (rest)."
+70576,25338,1127,9,2026-02-22,out,"Farrow is inactive for the matchup with the Vellmouth Gannets, and the team cites ankle soreness."
+70577,25340,1201,14,2026-02-22,out,"Hadderley is inactive for the matchup with the Glenrock Stags, and the team cites rest."
+70578,25340,1207,14,2026-02-22,out,Draper is unavailable against the Glenrock Stags due to back soreness.
+70579,25341,1063,5,2026-02-23,out,Bergstrom (rest) is sidelined for the game against the Elkhollow Trappers.
+70580,25341,1072,5,2026-02-23,out,"Cardenas will sit out the February 23, 2026 contest versus the Elkhollow Trappers (concussion)."
+70581,25341,1090,6,2026-02-23,out,"Kilbride will sit out the February 23, 2026 contest versus the Dunmere Ironclads (illness)."
+70582,25342,1014,1,2026-02-23,out,"Brightwell has been held out on February 23, 2026 because of concussion protocol."
+70583,25342,1052,4,2026-02-23,out,"Valdez has been held out on February 23, 2026 because of a sprained knee."
+70584,25343,1212,15,2026-02-23,out,Osei (wrist) is sidelined for the game against the Cinderfall Wraiths.
+70585,25344,1153,11,2026-02-23,out,Mendez has been ruled out against the Calvara Gryphons with hip tightness.
+70586,25344,1161,11,2026-02-23,out,"Hensley has been held out on February 23, 2026 because of groin soreness."
+70587,25344,1162,11,2026-02-23,out,Ibarra (quad) is sidelined for the game against the Calvara Gryphons.
+70588,25345,1024,2,2026-02-25,out,Larrabee (knee) is sidelined for the game against the Calvara Gryphons.
+70589,25346,1097,7,2026-02-25,out,Sorrell has been ruled out against the Vellmouth Gannets with back soreness.
+70590,25348,1052,4,2026-02-25,out,"Valdez has been held out on February 25, 2026 because of a sprained knee."
+70591,25349,1153,11,2026-02-25,out,Mendez (hip) is sidelined for the game against the Lomacita Dusters.
+70592,25349,1161,11,2026-02-25,out,Hensley has been ruled out against the Lomacita Dusters with groin soreness.
+70593,25349,1162,11,2026-02-25,out,Ibarra (quad) is sidelined for the game against the Lomacita Dusters.
+70594,25349,1212,15,2026-02-25,out,"Osei will sit out the February 25, 2026 contest versus the Ironvale Mammoths (wrist)."
+70595,25350,1014,1,2026-02-26,out,Brightwell is unavailable against the Dunmere Ironclads due to concussion protocol.
+70596,25350,1067,5,2026-02-26,out,Varga (ankle) is sidelined for the game against the Bramport Lanterns.
+70597,25350,1072,5,2026-02-26,out,"Cardenas is inactive for the matchup with the Bramport Lanterns, and the team cites concussion protocol."
+70598,25351,1090,6,2026-02-26,out,Kilbride is unavailable against the Cinderfall Wraiths due to an illness.
+70599,25351,1166,12,2026-02-26,out,"Brannagh will sit out the February 26, 2026 contest versus the Elkhollow Trappers (rest)."
+70600,25352,1127,9,2026-02-26,out,Farrow has been ruled out against the Tarrow Vipers with ankle soreness.
+70601,25353,1067,5,2026-02-28,out,Varga (ankle) is sidelined for the game against the Glenrock Stags.
+70602,25353,1072,5,2026-02-28,out,"Cardenas is inactive for the matchup with the Glenrock Stags, and the team cites wrist soreness."
+70603,25354,1212,15,2026-02-28,out,Osei has been ruled out against the Calvara Gryphons with wrist tightness.
+70604,25354,1223,15,2026-02-28,out,"Farrow is inactive for the matchup with the Calvara Gryphons, and the team cites rest."
+70605,25355,1014,1,2026-02-28,out,"Brightwell is inactive for the matchup with the Ironvale Mammoths, and the team cites concussion protocol."
+70606,25355,1153,11,2026-02-28,out,Mendez is unavailable against the Bramport Lanterns due to hip tightness.
+70607,25355,1161,11,2026-02-28,out,"Hensley is inactive for the matchup with the Bramport Lanterns, and the team cites groin soreness."
+70608,25356,1127,9,2026-02-28,out,Farrow (ankle) is sidelined for the game against the Quarryton Foxhounds.
+70609,25357,1097,7,2026-02-28,out,Sorrell has been ruled out against the Tarrow Vipers with back soreness.
+70610,25357,1201,14,2026-02-28,out,Hadderley (rest) is sidelined for the game against the Norvale Zephyrs.
+70611,25358,1024,2,2026-03-01,out,"Larrabee has been held out on March 1, 2026 because of a sprained knee."
+70612,25358,1084,6,2026-03-01,out,Kincaid is unavailable against the Saltmere Corsairs due to hip soreness.
+70613,25359,1168,12,2026-03-01,out,Gallio is unavailable against the Sablecrest Outriders due to back soreness.
+70614,25361,1084,6,2026-03-03,out,"Kincaid is inactive for the matchup with the Quarryton Foxhounds, and the team cites hip soreness."
+70615,25362,1067,5,2026-03-03,out,"Varga has been held out on March 3, 2026 because of a sprained ankle."
+70616,25362,1072,5,2026-03-03,out,Cardenas is unavailable against the Norvale Zephyrs due to wrist soreness.
+70617,25362,1092,7,2026-03-03,out,Larrabee is unavailable against the Dunmere Ironclads due to rest.
+70618,25362,1095,7,2026-03-03,out,Brightwell (rest) is sidelined for the game against the Dunmere Ironclads.
+70619,25362,1097,7,2026-03-03,out,"Sorrell is inactive for the matchup with the Dunmere Ironclads, and the team cites back soreness."
+70620,25363,1032,3,2026-03-03,out,"Szabo is inactive for the matchup with the Tarrow Vipers, and the team cites shoulder soreness."
+70621,25364,1108,15,2026-03-03,out,"Osei will sit out the March 3, 2026 contest versus the Redmesa Coyotes (rest)."
+70622,25364,1125,9,2026-03-03,out,Pendry has been ruled out against the Lomacita Dusters with a sprained foot.
+70623,25364,1127,9,2026-03-03,out,Farrow has been ruled out against the Lomacita Dusters with ankle soreness.
+70624,25365,1014,1,2026-03-04,out,"Brightwell is inactive for the matchup with the Saltmere Corsairs, and the team cites concussion protocol."
+70625,25365,1024,2,2026-03-04,out,Larrabee has been ruled out against the Bramport Lanterns with a sprained knee.
+70626,25367,1153,11,2026-03-04,out,Mendez has been ruled out against the Cinderfall Wraiths with hip tightness.
+70627,25367,1161,11,2026-03-04,out,Hensley (groin) is sidelined for the game against the Cinderfall Wraiths.
+70628,25367,1168,12,2026-03-04,out,Gallio (back) is sidelined for the game against the Ironvale Mammoths.
+70629,25369,1050,4,2026-03-05,out,"Wainwright is inactive for the matchup with the Mirabel Sunhawks, and the team cites rest."
+70630,25370,1063,5,2026-03-05,out,Bergstrom is unavailable against the Sablecrest Outriders due to rest.
+70631,25370,1067,5,2026-03-05,out,"Varga has been held out on March 5, 2026 because of a sprained ankle."
+70632,25370,1073,5,2026-03-05,out,Brannagh (rest) is sidelined for the game against the Sablecrest Outriders.
+70633,25371,1168,12,2026-03-05,out,Gallio is unavailable against the Lomacita Dusters due to back soreness.
+70634,25371,1179,12,2026-03-05,out,Rourke (rest) is sidelined for the game against the Lomacita Dusters.
+70635,25372,1024,2,2026-03-05,out,"Larrabee has been held out on March 5, 2026 because of a sprained knee."
+70636,25374,1014,1,2026-03-06,out,"Brightwell has been held out on March 6, 2026 because of concussion protocol."
+70637,25374,1097,7,2026-03-06,out,"Sorrell is inactive for the matchup with the Bramport Lanterns, and the team cites back soreness."
+70638,25375,1084,6,2026-03-06,out,"Kincaid will sit out the March 6, 2026 contest versus the Redmesa Coyotes (hip)."
+70639,25375,1090,6,2026-03-06,out,"Kilbride will sit out the March 6, 2026 contest versus the Redmesa Coyotes (hip)."
+70640,25375,1127,9,2026-03-06,out,Farrow is unavailable against the Elkhollow Trappers due to ankle soreness.
+70641,25376,1153,11,2026-03-06,out,"Mendez is inactive for the matchup with the Tarrow Vipers, and the team cites hip tightness."
+70642,25376,1161,11,2026-03-06,out,"Hensley has been held out on March 6, 2026 because of groin soreness."
+70643,25376,1208,14,2026-03-06,out,Corrigan has been ruled out against the Ironvale Mammoths with a sprained foot.
+70644,25378,1084,6,2026-03-08,out,Kincaid is unavailable against the Mirabel Sunhawks due to rest.
+70645,25378,1086,6,2026-03-08,out,Underwood has been ruled out against the Mirabel Sunhawks with foot tightness.
+70646,25378,1089,6,2026-03-08,out,Szabo has been ruled out against the Mirabel Sunhawks with a sprained wrist.
+70647,25378,1090,6,2026-03-08,out,"Kilbride is inactive for the matchup with the Mirabel Sunhawks, and the team cites hip tightness."
+70648,25378,1192,13,2026-03-08,out,Abernathy is unavailable against the Elkhollow Trappers due to rest.
+70649,25379,1097,7,2026-03-08,out,"Sorrell is inactive for the matchup with the Cinderfall Wraiths, and the team cites back soreness."
+70650,25379,1103,7,2026-03-08,out,"Whitlock is inactive for the matchup with the Cinderfall Wraiths, and the team cites an illness."
+70651,25380,1067,5,2026-03-09,out,Varga (ankle) is sidelined for the game against the Glenrock Stags.
+70652,25380,1218,8,2026-03-09,out,"Halvorsen is inactive for the matchup with the Dunmere Ironclads, and the team cites thumb soreness."
+70653,25382,1127,9,2026-03-09,out,"Farrow has been held out on March 9, 2026 because of ankle soreness."
+70654,25383,1024,2,2026-03-09,out,"Larrabee is inactive for the matchup with the Ironvale Mammoths, and the team cites a sprained knee."
+70655,25383,1153,11,2026-03-09,out,Mendez has been ruled out against the Saltmere Corsairs with hip tightness.
+70656,25383,1160,11,2026-03-09,out,"Kowalski is inactive for the matchup with the Saltmere Corsairs, and the team cites shoulder tightness."
+70657,25383,1161,11,2026-03-09,out,"Hensley is inactive for the matchup with the Saltmere Corsairs, and the team cites groin soreness."
+70658,25384,1043,3,2026-03-09,out,Lachance has been ruled out against the Lomacita Dusters with a sprained ankle.
+70659,25385,1197,14,2026-03-11,out,Halvorsen has been ruled out against the Glenrock Stags with ankle soreness.
+70660,25385,1218,8,2026-03-11,out,Halvorsen (thumb) is sidelined for the game against the Tarrow Vipers.
+70661,25386,1016,2,2026-03-11,out,"Kincaid will sit out the March 11, 2026 contest versus the Redmesa Coyotes (rest)."
+70662,25386,1024,2,2026-03-11,out,"Larrabee has been held out on March 11, 2026 because of a sprained knee."
+70663,25386,1127,9,2026-03-11,out,Farrow has been ruled out against the Saltmere Corsairs with ankle soreness.
+70664,25388,1067,5,2026-03-11,out,Varga has been ruled out against the Mirabel Sunhawks with a sprained ankle.
+70665,25388,1192,13,2026-03-11,out,Abernathy (illness) is sidelined for the game against the Dunmere Ironclads.
+70666,25389,1153,11,2026-03-11,out,Mendez has been ruled out against the Sablecrest Outriders with hip tightness.
+70667,25389,1160,11,2026-03-11,out,"Kowalski is inactive for the matchup with the Sablecrest Outriders, and the team cites shoulder tightness."
+70668,25389,1161,11,2026-03-11,out,"Hensley has been held out on March 11, 2026 because of groin soreness."
+70669,25390,1091,7,2026-03-12,out,"Farrow will sit out the March 12, 2026 contest versus the Lomacita Dusters (rest)."
+70670,25390,1103,7,2026-03-12,out,Whitlock (illness) is sidelined for the game against the Lomacita Dusters.
+70671,25391,1008,1,2026-03-12,out,"Mendez will sit out the March 12, 2026 contest versus the Elkhollow Trappers (thumb)."
+70672,25391,1090,6,2026-03-12,out,Kilbride has been ruled out against the Bramport Lanterns with hip tightness.
+70673,25393,1153,11,2026-03-14,out,"Mendez will sit out the March 14, 2026 contest versus the Glenrock Stags (hip)."
+70674,25393,1161,11,2026-03-14,out,"Hensley is inactive for the matchup with the Glenrock Stags, and the team cites groin soreness."
+70675,25393,1218,8,2026-03-14,out,Halvorsen has been ruled out against the Ironvale Mammoths with thumb soreness.
+70676,25395,1077,6,2026-03-14,out,"Stroud will sit out the March 14, 2026 contest versus the Cinderfall Wraiths (rest)."
+70677,25395,1090,6,2026-03-14,out,"Kilbride has been held out on March 14, 2026 because of hip tightness."
+70678,25396,1197,14,2026-03-14,out,"Halvorsen has been held out on March 14, 2026 because of ankle soreness."
+70679,25397,1008,1,2026-03-15,out,"Mendez has been held out on March 15, 2026 because of a sprained thumb."
+70680,25397,1144,10,2026-03-15,out,Whitlock (quad) is sidelined for the game against the Bramport Lanterns.
+70681,25397,1147,10,2026-03-15,out,"Kuznetsov is inactive for the matchup with the Bramport Lanterns, and the team cites rest."
+70682,25398,1024,2,2026-03-15,out,Larrabee is unavailable against the Norvale Zephyrs due to a sprained knee.
+70683,25398,1103,7,2026-03-15,out,"Whitlock is inactive for the matchup with the Saltmere Corsairs, and the team cites an illness."
+70684,25399,1182,13,2026-03-15,out,Lyle is unavailable against the Redmesa Coyotes due to rest.
+70685,25399,1192,13,2026-03-15,out,Abernathy is unavailable against the Redmesa Coyotes due to an illness.
+70686,25400,1067,5,2026-03-15,out,"Varga is inactive for the matchup with the Calvara Gryphons, and the team cites a sprained ankle."
+70687,25400,1229,16,2026-03-15,out,"Nakamura will sit out the March 15, 2026 contest versus the Dunmere Ironclads (rest)."
+70688,25401,1090,6,2026-03-17,out,"Kilbride will sit out the March 17, 2026 contest versus the Tarrow Vipers (hip)."
+70689,25401,1197,14,2026-03-17,out,"Halvorsen has been held out on March 17, 2026 because of ankle soreness."
+70690,25402,1008,1,2026-03-17,out,Mendez has been ruled out against the Calvara Gryphons with a sprained thumb.
+70691,25403,1153,11,2026-03-17,out,"Mendez has been held out on March 17, 2026 because of hip tightness."
+70692,25403,1161,11,2026-03-17,out,"Hensley will sit out the March 17, 2026 contest versus the Quarryton Foxhounds (groin)."
+70693,25404,1103,7,2026-03-17,out,Whitlock is unavailable against the Sablecrest Outriders due to an illness.
+70694,25404,1144,10,2026-03-17,out,"Whitlock has been held out on March 17, 2026 because of quad soreness."
+70695,25405,1024,2,2026-03-18,out,Larrabee (knee) is sidelined for the game against the Dunmere Ironclads.
+70696,25405,1067,5,2026-03-18,out,"Varga is inactive for the matchup with the Saltmere Corsairs, and the team cites a sprained ankle."
+70697,25406,1192,13,2026-03-18,out,Abernathy has been ruled out against the Cinderfall Wraiths with an illness.
+70698,25408,1124,9,2026-03-18,out,Okafor (rest) is sidelined for the game against the Vellmouth Gannets.
+70699,25409,1024,2,2026-03-19,out,Larrabee is unavailable against the Sablecrest Outriders due to a sprained knee.
+70700,25409,1144,10,2026-03-19,out,"Whitlock is inactive for the matchup with the Saltmere Corsairs, and the team cites quad soreness."
+70701,25411,1192,13,2026-03-19,out,"Abernathy will sit out the March 19, 2026 contest versus the Tarrow Vipers (illness)."
+70702,25411,1197,14,2026-03-19,out,"Halvorsen is inactive for the matchup with the Mirabel Sunhawks, and the team cites ankle soreness."
+70703,25412,1153,11,2026-03-19,out,Mendez has been ruled out against the Redmesa Coyotes with hip tightness.
+70704,25412,1161,11,2026-03-19,out,Hensley (groin) is sidelined for the game against the Redmesa Coyotes.
+70705,25413,1085,6,2026-03-20,out,"Okafor is inactive for the matchup with the Glenrock Stags, and the team cites rest."
+70706,25413,1090,6,2026-03-20,out,Kilbride (hip) is sidelined for the game against the Glenrock Stags.
+70707,25413,1119,8,2026-03-20,out,Nakamura is unavailable against the Elkhollow Trappers due to rest.
+70708,25414,1004,1,2026-03-20,out,"Okafor has been held out on March 20, 2026 because of concussion protocol."
+70709,25414,1008,1,2026-03-20,out,Mendez is unavailable against the Dunmere Ironclads due to a sprained thumb.
+70710,25414,1067,5,2026-03-20,out,Varga has been ruled out against the Bramport Lanterns with a sprained ankle.
+70711,25415,1038,3,2026-03-20,out,Mendez (rest) is sidelined for the game against the Cinderfall Wraiths.
+70712,25416,1103,7,2026-03-20,out,"Whitlock will sit out the March 20, 2026 contest versus the Calvara Gryphons (illness)."
+70713,25417,1004,1,2026-03-22,out,"Okafor is inactive for the matchup with the Vellmouth Gannets, and the team cites concussion protocol."
+70714,25417,1036,3,2026-03-22,out,"Nesbitt will sit out the March 22, 2026 contest versus the Bramport Lanterns (foot)."
+70715,25418,1067,5,2026-03-22,out,Varga (ankle) is sidelined for the game against the Ironvale Mammoths.
+70716,25418,1153,11,2026-03-22,out,Mendez (hip) is sidelined for the game against the Dunmere Ironclads.
+70717,25418,1159,11,2026-03-22,out,"Nesbitt has been held out on March 22, 2026 because of wrist soreness."
+70718,25419,1024,2,2026-03-22,out,Larrabee (knee) is sidelined for the game against the Cinderfall Wraiths.
+70719,25420,1092,7,2026-03-23,out,"Larrabee will sit out the March 23, 2026 contest versus the Mirabel Sunhawks (rest)."
+70720,25420,1182,13,2026-03-23,out,Lyle (rest) is sidelined for the game against the Norvale Zephyrs.
+70721,25420,1192,13,2026-03-23,out,Abernathy is unavailable against the Norvale Zephyrs due to an illness.
+70722,25421,1050,4,2026-03-23,out,"Wainwright is inactive for the matchup with the Glenrock Stags, and the team cites rest."
+70723,25421,1112,8,2026-03-23,out,"Pellegrin will sit out the March 23, 2026 contest versus the Quarryton Foxhounds (rest)."
+70724,25422,1090,6,2026-03-23,out,Kilbride is unavailable against the Sablecrest Outriders due to hip tightness.
+70725,25422,1144,10,2026-03-23,out,Whitlock is unavailable against the Elkhollow Trappers due to quad soreness.
+70726,25425,1004,1,2026-03-25,out,"Okafor will sit out the March 25, 2026 contest versus the Glenrock Stags (rest)."
+70727,25426,1090,6,2026-03-25,out,Kilbride has been ruled out against the Vellmouth Gannets with hip tightness.
+70728,25427,1144,10,2026-03-25,out,Whitlock (quad) is sidelined for the game against the Cinderfall Wraiths.
+70729,25428,1152,11,2026-03-25,out,Haddad has been ruled out against the Lomacita Dusters with foot soreness.
+70730,25428,1154,11,2026-03-25,out,Belcourt (rest) is sidelined for the game against the Lomacita Dusters.
+70731,25428,1156,11,2026-03-25,out,"Dlamini will sit out the March 25, 2026 contest versus the Lomacita Dusters (rest)."
+70732,25428,1159,11,2026-03-25,out,"Nesbitt will sit out the March 25, 2026 contest versus the Lomacita Dusters (wrist)."
+70733,25428,1217,15,2026-03-25,out,"Hartigan is inactive for the matchup with the Ironvale Mammoths, and the team cites back tightness."
+70734,25430,1024,2,2026-03-26,out,Larrabee (knee) is sidelined for the game against the Mirabel Sunhawks.
+70735,25430,1192,13,2026-03-26,out,"Abernathy has been held out on March 26, 2026 because of an illness."
+70736,25431,1049,4,2026-03-26,out,Mendez (rest) is sidelined for the game against the Dunmere Ironclads.
+70737,25432,1123,9,2026-03-26,out,Halvorsen (rest) is sidelined for the game against the Calvara Gryphons.
+70738,25433,1090,6,2026-03-28,out,Kilbride (hip) is sidelined for the game against the Dunmere Ironclads.
+70739,25434,1192,13,2026-03-28,out,Abernathy is unavailable against the Calvara Gryphons due to an illness.
+70740,25434,1231,16,2026-03-28,out,"Ibarra will sit out the March 28, 2026 contest versus the Mirabel Sunhawks (rest)."
+70741,25436,1144,10,2026-03-28,out,Whitlock is unavailable against the Vellmouth Gannets due to quad soreness.
+70742,25437,1217,15,2026-03-28,out,Hartigan is unavailable against the Bramport Lanterns due to back tightness.
+70743,25438,1017,2,2026-03-29,out,"Fontaine will sit out the March 29, 2026 contest versus the Tarrow Vipers (quad)."
+70744,25438,1209,14,2026-03-29,out,Kuznetsov is unavailable against the Saltmere Corsairs due to rest.
+70745,25439,1052,4,2026-03-29,out,Valdez (rest) is sidelined for the game against the Redmesa Coyotes.
+70746,25439,1126,9,2026-03-29,out,Laurent has been ruled out against the Quarryton Foxhounds with an illness.
+70747,25442,1126,9,2026-03-31,out,"Laurent will sit out the March 31, 2026 contest versus the Dunmere Ironclads (illness)."
+70748,25444,1033,3,2026-04-01,out,"Engstrom will sit out the April 1, 2026 contest versus the Mirabel Sunhawks (hamstring)."
+70749,25444,1192,13,2026-04-01,out,"Abernathy will sit out the April 1, 2026 contest versus the Vellmouth Gannets (illness)."
+70750,25445,1090,6,2026-04-01,out,Kilbride has been ruled out against the Ironvale Mammoths with hip tightness.
+70751,25447,1140,10,2026-04-01,out,O'Meara is unavailable against the Tarrow Vipers due to rest.
+70752,25447,1144,10,2026-04-01,out,"Whitlock has been held out on April 1, 2026 because of quad soreness."
+70753,25448,1184,2,2026-04-01,out,"Mendez is inactive for the matchup with the Lomacita Dusters, and the team cites rest."
+70754,25448,1217,15,2026-04-01,out,"Hartigan has been held out on April 1, 2026 because of back tightness."
+70755,25449,1126,9,2026-04-03,out,Laurent (illness) is sidelined for the game against the Glenrock Stags.
+70756,25450,1157,11,2026-04-03,out,Fontaine is unavailable against the Bramport Lanterns due to rest.
+70757,25451,1033,3,2026-04-03,out,Engstrom (hamstring) is sidelined for the game against the Norvale Zephyrs.
+70758,25452,1074,5,2026-04-03,out,Novak has been ruled out against the Lomacita Dusters with ankle soreness.
+70759,25452,1217,15,2026-04-03,out,"Hartigan will sit out the April 3, 2026 contest versus the Dunmere Ironclads (back)."
+70760,25453,1054,4,2026-04-04,out,"Osei is inactive for the matchup with the Saltmere Corsairs, and the team cites a sprained wrist."
+70761,25454,1087,6,2026-04-04,out,Whitcombe is unavailable against the Calvara Gryphons due to rest.
+70762,25455,1144,10,2026-04-04,out,"Whitlock is inactive for the matchup with the Mirabel Sunhawks, and the team cites quad soreness."
+70763,25455,1192,13,2026-04-04,out,"Abernathy is inactive for the matchup with the Sablecrest Outriders, and the team cites an illness."
+70764,25457,1054,4,2026-04-05,out,Osei has been ruled out against the Tarrow Vipers with a sprained wrist.
+70765,25458,1033,3,2026-04-05,out,"Engstrom has been held out on April 5, 2026 because of hamstring tightness."
+70766,25460,1122,9,2026-04-05,out,"Ortega is inactive for the matchup with the Cinderfall Wraiths, and the team cites rest."
+70767,25460,1126,9,2026-04-05,out,Laurent has been ruled out against the Cinderfall Wraiths with an illness.
+70768,25461,1144,10,2026-04-05,out,"Whitlock has been held out on April 5, 2026 because of quad soreness."
+70769,25461,1217,15,2026-04-05,out,"Hartigan will sit out the April 5, 2026 contest versus the Sablecrest Outriders (back)."
+70770,25462,1192,13,2026-04-06,out,Abernathy (illness) is sidelined for the game against the Bramport Lanterns.
+70771,25463,1118,8,2026-04-06,out,Kowalski is unavailable against the Saltmere Corsairs due to rest.
+70772,25464,1154,11,2026-04-06,out,"Belcourt has been held out on April 6, 2026 because of quad tightness."
+70773,25465,1081,6,2026-04-08,out,Corrigan (rest) is sidelined for the game against the Saltmere Corsairs.
+70774,25467,1209,14,2026-04-08,out,"Kuznetsov is inactive for the matchup with the Dunmere Ironclads, and the team cites rest."
+70775,25468,1192,13,2026-04-08,out,Abernathy has been ruled out against the Lomacita Dusters with an illness.
+70776,25468,1195,13,2026-04-08,out,"Laurent is inactive for the matchup with the Lomacita Dusters, and the team cites foot soreness."
+70777,25468,1217,15,2026-04-08,out,"Hartigan is inactive for the matchup with the Mirabel Sunhawks, and the team cites back tightness."
+70778,25469,1145,10,2026-04-09,out,"Trask is inactive for the matchup with the Quarryton Foxhounds, and the team cites rest."
+70779,25469,1150,10,2026-04-09,out,"Stroud has been held out on April 9, 2026 because of knee tightness."
+70780,25471,1099,7,2026-04-09,out,"Ferreira is inactive for the matchup with the Redmesa Coyotes, and the team cites hip tightness."
+70781,25472,1033,3,2026-04-09,out,Engstrom (hamstring) is sidelined for the game against the Ironvale Mammoths.
+70782,25472,1154,11,2026-04-09,out,"Belcourt will sit out the April 9, 2026 contest versus the Vellmouth Gannets (quad)."
+70783,25473,1095,7,2026-04-11,out,Brightwell is unavailable against the Quarryton Foxhounds due to rest.
+70784,25474,1069,5,2026-04-11,out,"Jessup will sit out the April 11, 2026 contest versus the Cinderfall Wraiths (rest)."
+70785,25474,1170,12,2026-04-11,out,"Szabo will sit out the April 11, 2026 contest versus the Dunmere Ironclads (rest)."
+70786,25475,1080,6,2026-04-11,out,"Castell-Rooney is inactive for the matchup with the Lomacita Dusters, and the team cites rest."
+70787,25475,1217,15,2026-04-11,out,Hartigan is unavailable against the Elkhollow Trappers due to back tightness.
+70788,25476,1154,11,2026-04-11,out,Belcourt is unavailable against the Mirabel Sunhawks due to quad tightness.
+70789,25476,1192,13,2026-04-11,out,Abernathy has been ruled out against the Ironvale Mammoths with an illness.
+70790,25476,1195,13,2026-04-11,out,Laurent is unavailable against the Ironvale Mammoths due to foot soreness.
+70791,25478,1147,10,2026-04-12,out,Kuznetsov (rest) is sidelined for the game against the Glenrock Stags.
+70792,25478,1150,10,2026-04-12,out,"Stroud has been held out on April 12, 2026 because of knee tightness."

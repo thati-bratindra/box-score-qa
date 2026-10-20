@@ -1,0 +1,47 @@
+<div class="app-container">
+  <h1>{{ title }}</h1>
+  <div class="chat-container">
+    <div class="messages">
+      <div *ngIf="messages.length === 0" class="empty-state">
+        Ask a question about the season's games, players, or recaps.
+      </div>
+
+      <div *ngFor="let msg of messages" class="turn" [ngClass]="msg.sender">
+        <div class="bubble">{{ msg.text }}</div>
+
+        <div *ngIf="msg.sender === 'bot' && msg.evidence && msg.evidence.length > 0" class="evidence-block">
+          <button type="button" class="evidence-toggle" (click)="toggleEvidence(msg)">
+            {{ msg.showEvidence ? 'Hide' : 'Show' }} evidence ({{ msg.evidence.length }})
+          </button>
+          <ul *ngIf="msg.showEvidence" class="evidence-list">
+            <li *ngFor="let item of msg.evidence" class="evidence-item">
+              <div class="evidence-meta">
+                <span class="evidence-table">{{ item.table }}</span>
+                <span class="evidence-ids">{{ evidenceKey(item) }}</span>
+                <span *ngIf="item.score !== undefined" class="evidence-score">score: {{ item.score }}</span>
+              </div>
+              <div *ngIf="item.doc" class="evidence-doc">{{ item.doc }}</div>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div *ngIf="isLoading" class="turn bot">
+        <div class="bubble loading">Thinking...</div>
+      </div>
+    </div>
+
+    <div *ngIf="errorMessage" class="error-banner">{{ errorMessage }}</div>
+
+    <form (ngSubmit)="sendMessage()" class="input-area">
+      <input
+        [(ngModel)]="userInput"
+        name="userInput"
+        placeholder="Ask a question..."
+        [disabled]="isLoading"
+        autocomplete="off"
+      />
+      <button type="submit" [disabled]="isLoading || !userInput.trim()">Send</button>
+    </form>
+  </div>
+</div>
